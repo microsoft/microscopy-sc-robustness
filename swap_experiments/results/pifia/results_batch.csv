@@ -1,0 +1,1576 @@
+Location1,Location2,Background,Accuracy,StdDev
+actin,bud neck,actin,0.922,0.010295630140987002
+actin,bud neck,bud neck,0.932,0.010999999999999998
+actin,bud neck,cell periphery,0.9225,0.018096961070853866
+actin,bud neck,cytoplasm,0.9404999999999999,0.009924716620639595
+actin,bud neck,endosome,0.933,0.012980754985747167
+actin,bud neck,ER,0.9265000000000001,0.00860232526704262
+actin,bud neck,Golgi,0.9235,0.012103718436910202
+actin,bud neck,mitochondrion,0.9339999999999999,0.012103718436910183
+actin,bud neck,nucleus,0.93,0.010839741694339393
+actin,bud neck,nuclear periphery,0.9275,0.006519202405202654
+actin,bud neck,nucleolus,0.9274999999999999,0.019557607215607932
+actin,bud neck,spindle pole,0.9324999999999999,0.007582875444051543
+actin,bud neck,peroxisome,0.933,0.005787918451395093
+actin,bud neck,vacuolar membrane,0.9315,0.01019803902718553
+actin,bud neck,vacuole,0.9225000000000001,0.008514693182963207
+actin,cell periphery,actin,0.9414999999999999,0.009433981132056577
+actin,cell periphery,bud neck,0.9359999999999999,0.005147815070493491
+actin,cell periphery,cell periphery,0.9265000000000001,0.008746427842267939
+actin,cell periphery,cytoplasm,0.9335000000000001,0.008746427842267951
+actin,cell periphery,endosome,0.9344999999999999,0.013638181696985868
+actin,cell periphery,ER,0.9355,0.006782329983125274
+actin,cell periphery,Golgi,0.9349999999999999,0.011180339887498938
+actin,cell periphery,mitochondrion,0.9414999999999999,0.01978635893740937
+actin,cell periphery,nucleus,0.933,0.008717797887081338
+actin,cell periphery,nuclear periphery,0.933,0.01536229149573722
+actin,cell periphery,nucleolus,0.9390000000000001,0.010440306508910556
+actin,cell periphery,spindle pole,0.9455,0.011445523142259589
+actin,cell periphery,peroxisome,0.9410000000000001,0.00956556323485447
+actin,cell periphery,vacuolar membrane,0.9395,0.009669539802906843
+actin,cell periphery,vacuole,0.945,0.012144957801491116
+actin,cytoplasm,actin,0.9349999999999999,0.01360147050873544
+actin,cytoplasm,bud neck,0.9265000000000001,0.015620499351813307
+actin,cytoplasm,cell periphery,0.9139999999999999,0.009300537618869143
+actin,cytoplasm,cytoplasm,0.9195,0.014611639196202463
+actin,cytoplasm,endosome,0.9135,0.010319883720275154
+actin,cytoplasm,ER,0.9255000000000001,0.0060000000000000105
+actin,cytoplasm,Golgi,0.9279999999999999,0.01053565375285273
+actin,cytoplasm,mitochondrion,0.9315,0.014882876066137207
+actin,cytoplasm,nucleus,0.9269999999999999,0.013638181696985831
+actin,cytoplasm,nuclear periphery,0.9219999999999999,0.015116216457830949
+actin,cytoplasm,nucleolus,0.9315000000000001,0.008455767262643868
+actin,cytoplasm,spindle pole,0.9189999999999999,0.013656500283747658
+actin,cytoplasm,peroxisome,0.9275,0.009486832980505141
+actin,cytoplasm,vacuolar membrane,0.9164999999999999,0.016324827717314503
+actin,cytoplasm,vacuole,0.9195,0.009539392014169444
+actin,endosome,actin,0.9075,0.021447610589527214
+actin,endosome,bud neck,0.9184999999999999,0.009949874371066215
+actin,endosome,cell periphery,0.9,0.010839741694339385
+actin,endosome,cytoplasm,0.8939999999999999,0.007348469228349541
+actin,endosome,endosome,0.9125,0.004999999999999982
+actin,endosome,ER,0.915,0.015247950681976935
+actin,endosome,Golgi,0.9110000000000001,0.0058309518948453055
+actin,endosome,mitochondrion,0.924,0.007516648189186443
+actin,endosome,nucleus,0.9019999999999999,0.013453624047073705
+actin,endosome,nuclear periphery,0.9179999999999999,0.01469693845669906
+actin,endosome,nucleolus,0.907,0.015684387141358138
+actin,endosome,spindle pole,0.8945000000000001,0.01469693845669908
+actin,endosome,peroxisome,0.8954999999999999,0.006964194138592089
+actin,endosome,vacuolar membrane,0.9019999999999999,0.016232683080747955
+actin,endosome,vacuole,0.9215,0.011135528725660033
+actin,ER,actin,0.9409999999999998,0.007176350047203642
+actin,ER,bud neck,0.9265000000000001,0.009165151389911665
+actin,ER,cell periphery,0.9179999999999999,0.015763882770434435
+actin,ER,cytoplasm,0.922,0.004000000000000012
+actin,ER,endosome,0.9335000000000001,0.009300537618869124
+actin,ER,ER,0.9285,0.013838352503098044
+actin,ER,Golgi,0.931,0.010074720839804948
+actin,ER,mitochondrion,0.9334999999999999,0.01200000000000001
+actin,ER,nucleus,0.933,0.00748331477354788
+actin,ER,nuclear periphery,0.9289999999999999,0.007176350047203638
+actin,ER,nucleolus,0.9225,0.015732132722552285
+actin,ER,spindle pole,0.9265000000000001,0.007516648189186449
+actin,ER,peroxisome,0.917,0.010416333327999853
+actin,ER,vacuolar membrane,0.9124999999999999,0.009617692030835703
+actin,ER,vacuole,0.9185000000000001,0.013472193585307487
+actin,Golgi,actin,0.9165000000000001,0.02136586061922153
+actin,Golgi,bud neck,0.916,0.0122065556157337
+actin,Golgi,cell periphery,0.9165000000000001,0.007348469228349554
+actin,Golgi,cytoplasm,0.9254999999999999,0.017277152543171
+actin,Golgi,endosome,0.9125,0.013038404810405314
+actin,Golgi,ER,0.9115,0.009823441352194272
+actin,Golgi,Golgi,0.9075,0.008366600265340762
+actin,Golgi,mitochondrion,0.9040000000000001,0.01309580085370881
+actin,Golgi,nucleus,0.9015000000000001,0.012206555615733698
+actin,Golgi,nuclear periphery,0.915,0.007905694150420941
+actin,Golgi,nucleolus,0.9145000000000001,0.009924716620639597
+actin,Golgi,spindle pole,0.9105000000000001,0.012083045973594567
+actin,Golgi,peroxisome,0.9065,0.010074720839804971
+actin,Golgi,vacuolar membrane,0.907,0.011661903789690611
+actin,Golgi,vacuole,0.924,0.00969535971483268
+actin,mitochondrion,actin,0.9295,0.007314369419163888
+actin,mitochondrion,bud neck,0.9184999999999999,0.01055935604097144
+actin,mitochondrion,cell periphery,0.9195,0.014265342617687143
+actin,mitochondrion,cytoplasm,0.923,0.011768602295939803
+actin,mitochondrion,endosome,0.9185000000000001,0.008154753215150077
+actin,mitochondrion,ER,0.9275,0.013509256086106288
+actin,mitochondrion,Golgi,0.9165000000000001,0.011683321445547925
+actin,mitochondrion,mitochondrion,0.9324999999999999,0.014404860290887932
+actin,mitochondrion,nucleus,0.9199999999999999,0.01850675552332173
+actin,mitochondrion,nuclear periphery,0.921,0.007516648189186449
+actin,mitochondrion,nucleolus,0.925,0.006324555320336764
+actin,mitochondrion,spindle pole,0.923,0.012786711852544434
+actin,mitochondrion,peroxisome,0.9225000000000001,0.008803408430829492
+actin,mitochondrion,vacuolar membrane,0.925,0.009486832980505152
+actin,mitochondrion,vacuole,0.923,0.013171939872319502
+actin,nucleus,actin,0.9525,0.010368220676663875
+actin,nucleus,bud neck,0.9644999999999999,0.010885770528538645
+actin,nucleus,cell periphery,0.9524999999999999,0.004183300132670395
+actin,nucleus,cytoplasm,0.961,0.00681909084849293
+actin,nucleus,endosome,0.9574999999999999,0.005700877125495695
+actin,nucleus,ER,0.968,0.011224972160321828
+actin,nucleus,Golgi,0.958,0.006204836822995424
+actin,nucleus,mitochondrion,0.9649999999999999,0.011937336386313314
+actin,nucleus,nucleus,0.9655000000000001,0.00731436941916389
+actin,nucleus,nuclear periphery,0.9535,0.005385164807134518
+actin,nucleus,nucleolus,0.9635000000000001,0.008602325267042634
+actin,nucleus,spindle pole,0.9584999999999999,0.006819090848492936
+actin,nucleus,peroxisome,0.9625,0.007905694150420941
+actin,nucleus,vacuolar membrane,0.9564999999999999,0.005147815070493501
+actin,nucleus,vacuole,0.9560000000000001,0.010319883720275131
+actin,nuclear periphery,actin,0.968,0.005787918451395135
+actin,nuclear periphery,bud neck,0.9645000000000001,0.009669539802906876
+actin,nuclear periphery,cell periphery,0.9584999999999999,0.013379088160259628
+actin,nuclear periphery,cytoplasm,0.9605,0.007968688725254624
+actin,nuclear periphery,endosome,0.9690000000000001,0.010793516572461474
+actin,nuclear periphery,ER,0.969,0.001999999999999996
+actin,nuclear periphery,Golgi,0.9640000000000001,0.012509996003196808
+actin,nuclear periphery,mitochondrion,0.97,0.009617692030835692
+actin,nuclear periphery,nucleus,0.9605,0.0065954529791364845
+actin,nuclear periphery,nuclear periphery,0.962,0.0029154759474226376
+actin,nuclear periphery,nucleolus,0.966,0.005830951894845307
+actin,nuclear periphery,spindle pole,0.9635000000000001,0.010074720839804948
+actin,nuclear periphery,peroxisome,0.9635,0.011575836902790253
+actin,nuclear periphery,vacuolar membrane,0.9644999999999999,0.01077032961426901
+actin,nuclear periphery,vacuole,0.9630000000000001,0.007314369419163886
+actin,nucleolus,actin,0.9635,0.007176350047203649
+actin,nucleolus,bud neck,0.9550000000000001,0.00908295106229247
+actin,nucleolus,cell periphery,0.9555,0.006782329983125285
+actin,nucleolus,cytoplasm,0.975,0.0038729833462074204
+actin,nucleolus,endosome,0.9615,0.008154753215150036
+actin,nucleolus,ER,0.9629999999999999,0.004301162633521301
+actin,nucleolus,Golgi,0.962,0.00578791845139512
+actin,nucleolus,mitochondrion,0.969,0.004636809247747849
+actin,nucleolus,nucleus,0.962,0.0048476798574163356
+actin,nucleolus,nuclear periphery,0.9630000000000001,0.003316624790355396
+actin,nucleolus,nucleolus,0.9665000000000001,0.002999999999999988
+actin,nucleolus,spindle pole,0.966,0.012103718436910231
+actin,nucleolus,peroxisome,0.9629999999999999,0.010999999999999998
+actin,nucleolus,vacuolar membrane,0.9605,0.009000000000000024
+actin,nucleolus,vacuole,0.9625,0.004472135954999571
+actin,spindle pole,actin,0.944,0.008000000000000005
+actin,spindle pole,bud neck,0.9425000000000001,0.015329709716755865
+actin,spindle pole,cell periphery,0.9225,0.013133925536563696
+actin,spindle pole,cytoplasm,0.9460000000000001,0.005612486080160904
+actin,spindle pole,endosome,0.9395,0.011113055385446425
+actin,spindle pole,ER,0.9369999999999999,0.010653637876331234
+actin,spindle pole,Golgi,0.9280000000000002,0.0142653426176871
+actin,spindle pole,mitochondrion,0.945,0.005916079783099603
+actin,spindle pole,nucleus,0.929,0.010793516572461448
+actin,spindle pole,nuclear periphery,0.9404999999999999,0.004582575694955796
+actin,spindle pole,nucleolus,0.9399999999999998,0.009354143466934844
+actin,spindle pole,spindle pole,0.9355,0.012884098726725099
+actin,spindle pole,peroxisome,0.932,0.009137833441248508
+actin,spindle pole,vacuolar membrane,0.938,0.007968688725254589
+actin,spindle pole,vacuole,0.9199999999999999,0.009746794344808962
+actin,peroxisome,actin,0.8424999999999999,0.023130067012440757
+actin,peroxisome,bud neck,0.8445,0.010653637876331267
+actin,peroxisome,cell periphery,0.8465,0.009823441352194257
+actin,peroxisome,cytoplasm,0.842,0.007141428428542859
+actin,peroxisome,endosome,0.8535,0.015779733838059525
+actin,peroxisome,ER,0.8635000000000002,0.01250999600319679
+actin,peroxisome,Golgi,0.85,0.017818529681205487
+actin,peroxisome,mitochondrion,0.853,0.008276472678623437
+actin,peroxisome,nucleus,0.8515,0.010793516572461448
+actin,peroxisome,nuclear periphery,0.8564999999999999,0.022945587811167522
+actin,peroxisome,nucleolus,0.8470000000000001,0.00781024967590665
+actin,peroxisome,spindle pole,0.859,0.019723082923316017
+actin,peroxisome,peroxisome,0.8469999999999999,0.012589678312014197
+actin,peroxisome,vacuolar membrane,0.8375,0.0131339255365637
+actin,peroxisome,vacuole,0.8495000000000001,0.015280706789936123
+actin,vacuolar membrane,actin,0.9345000000000001,0.0074833147735478694
+actin,vacuolar membrane,bud neck,0.9389999999999998,0.015620499351813316
+actin,vacuolar membrane,cell periphery,0.9359999999999999,0.009300537618869127
+actin,vacuolar membrane,cytoplasm,0.9385,0.009165151389911646
+actin,vacuolar membrane,endosome,0.9359999999999999,0.00982344135219422
+actin,vacuolar membrane,ER,0.9404999999999999,0.009137833441248529
+actin,vacuolar membrane,Golgi,0.929,0.010074720839804952
+actin,vacuolar membrane,mitochondrion,0.952,0.0043011626335213325
+actin,vacuolar membrane,nucleus,0.9375,0.007905694150420941
+actin,vacuolar membrane,nuclear periphery,0.9329999999999998,0.014089002803605368
+actin,vacuolar membrane,nucleolus,0.946,0.004062019202318005
+actin,vacuolar membrane,spindle pole,0.9359999999999999,0.008000000000000005
+actin,vacuolar membrane,peroxisome,0.9504999999999999,0.007141428428542859
+actin,vacuolar membrane,vacuolar membrane,0.9324999999999999,0.008215838362577506
+actin,vacuolar membrane,vacuole,0.938,0.008276472678623394
+actin,vacuole,actin,0.9380000000000001,0.019899748742132396
+actin,vacuole,bud neck,0.9365,0.011467344941179698
+actin,vacuole,cell periphery,0.9280000000000002,0.017916472867168912
+actin,vacuole,cytoplasm,0.9425000000000001,0.006892024376045093
+actin,vacuole,endosome,0.9345000000000001,0.01144552314225958
+actin,vacuole,ER,0.9434999999999999,0.005147815070493494
+actin,vacuole,Golgi,0.944,0.009823441352194229
+actin,vacuole,mitochondrion,0.9455,0.007483314773547889
+actin,vacuole,nucleus,0.9425000000000001,0.006708203932499333
+actin,vacuole,nuclear periphery,0.9455,0.015684387141358096
+actin,vacuole,nucleolus,0.9399999999999998,0.011291589790636202
+actin,vacuole,spindle pole,0.9275,0.006519202405202629
+actin,vacuole,peroxisome,0.9470000000000001,0.011224972160321787
+actin,vacuole,vacuolar membrane,0.9395,0.010049875621120877
+actin,vacuole,vacuole,0.9400000000000001,0.018096961070853845
+bud neck,cell periphery,actin,0.9235,0.007176350047203689
+bud neck,cell periphery,bud neck,0.9369999999999999,0.006595452979136427
+bud neck,cell periphery,cell periphery,0.9215,0.015620499351813281
+bud neck,cell periphery,cytoplasm,0.9175000000000001,0.02252776065213762
+bud neck,cell periphery,endosome,0.9285,0.009695359714832631
+bud neck,cell periphery,ER,0.9279999999999999,0.015921683328090633
+bud neck,cell periphery,Golgi,0.9139999999999999,0.011789826122551613
+bud neck,cell periphery,mitochondrion,0.931,0.009300537618869127
+bud neck,cell periphery,nucleus,0.9390000000000001,0.009300537618869127
+bud neck,cell periphery,nuclear periphery,0.9255000000000001,0.01784656829757474
+bud neck,cell periphery,nucleolus,0.9345000000000001,0.0057879184513951005
+bud neck,cell periphery,spindle pole,0.9254999999999999,0.004582575694955864
+bud neck,cell periphery,peroxisome,0.917,0.021412613105363885
+bud neck,cell periphery,vacuolar membrane,0.9135,0.005612486080160903
+bud neck,cell periphery,vacuole,0.924,0.01736375535418535
+bud neck,cytoplasm,actin,0.7989999999999999,0.025670995305986898
+bud neck,cytoplasm,bud neck,0.7875,0.017175564037317678
+bud neck,cytoplasm,cell periphery,0.764,0.01827566688249704
+bud neck,cytoplasm,cytoplasm,0.7619999999999999,0.0192613602842582
+bud neck,cytoplasm,endosome,0.781,0.01655294535724685
+bud neck,cytoplasm,ER,0.7764999999999999,0.013564659966250548
+bud neck,cytoplasm,Golgi,0.7735,0.01874833325925269
+bud neck,cytoplasm,mitochondrion,0.7665,0.021130546609115418
+bud neck,cytoplasm,nucleus,0.778,0.00966953980290688
+bud neck,cytoplasm,nuclear periphery,0.7975,0.0035355339059327407
+bud neck,cytoplasm,nucleolus,0.7955,0.022660538387249327
+bud neck,cytoplasm,spindle pole,0.7685,0.01488287606613721
+bud neck,cytoplasm,peroxisome,0.7935000000000001,0.00956556323485452
+bud neck,cytoplasm,vacuolar membrane,0.7845,0.02198863342729602
+bud neck,cytoplasm,vacuole,0.7729999999999999,0.007141428428542859
+bud neck,endosome,actin,0.877,0.005099019513592754
+bud neck,endosome,bud neck,0.891,0.013379088160259638
+bud neck,endosome,cell periphery,0.8809999999999999,0.00699999999999997
+bud neck,endosome,cytoplasm,0.8789999999999999,0.022671568097509243
+bud neck,endosome,endosome,0.8629999999999999,0.009924716620639595
+bud neck,endosome,ER,0.8675,0.011180339887498959
+bud neck,endosome,Golgi,0.883,0.0048476798574163356
+bud neck,endosome,mitochondrion,0.8855000000000001,0.01926136028425824
+bud neck,endosome,nucleus,0.8674999999999999,0.031064449134018145
+bud neck,endosome,nuclear periphery,0.8779999999999999,0.01607793519081352
+bud neck,endosome,nucleolus,0.8695,0.011874342087037908
+bud neck,endosome,spindle pole,0.8945000000000001,0.0142653426176871
+bud neck,endosome,peroxisome,0.8755000000000001,0.01228820572744451
+bud neck,endosome,vacuolar membrane,0.875,0.01917028951268081
+bud neck,endosome,vacuole,0.8835,0.0058309518948453055
+bud neck,ER,actin,0.874,0.0019999999999999575
+bud neck,ER,bud neck,0.868,0.02105943968865271
+bud neck,ER,cell periphery,0.8565000000000002,0.009027735042633895
+bud neck,ER,cytoplasm,0.8775000000000001,0.010368220676663844
+bud neck,ER,endosome,0.8605,0.01653783540854121
+bud neck,ER,ER,0.857,0.014611639196202472
+bud neck,ER,Golgi,0.8620000000000001,0.01958315602756615
+bud neck,ER,mitochondrion,0.8640000000000001,0.014882876066137222
+bud neck,ER,nucleus,0.8649999999999999,0.014916433890176285
+bud neck,ER,nuclear periphery,0.8714999999999999,0.010559356040971428
+bud neck,ER,nucleolus,0.8619999999999999,0.021587033144922923
+bud neck,ER,spindle pole,0.8620000000000001,0.02585536694769579
+bud neck,ER,peroxisome,0.866,0.022999999999999996
+bud neck,ER,vacuolar membrane,0.8695,0.006964194138592047
+bud neck,ER,vacuole,0.8714999999999999,0.011357816691600551
+bud neck,Golgi,actin,0.9075,0.016431676725155
+bud neck,Golgi,bud neck,0.909,0.012103718436910212
+bud neck,Golgi,cell periphery,0.9025000000000001,0.008803408430829492
+bud neck,Golgi,cytoplasm,0.898,0.011979148550710932
+bud neck,Golgi,endosome,0.8875,0.015165750888103104
+bud neck,Golgi,ER,0.884,0.01102270384252428
+bud neck,Golgi,Golgi,0.8885,0.00815475321515005
+bud neck,Golgi,mitochondrion,0.897,0.00509901951359279
+bud neck,Golgi,nucleus,0.8975,0.00961769203083568
+bud neck,Golgi,nuclear periphery,0.8985000000000001,0.01570031846810761
+bud neck,Golgi,nucleolus,0.883,0.009539392014169418
+bud neck,Golgi,spindle pole,0.8959999999999999,0.0058309518948453055
+bud neck,Golgi,peroxisome,0.8959999999999999,0.012409673645990866
+bud neck,Golgi,vacuolar membrane,0.8885000000000002,0.013285330255586397
+bud neck,Golgi,vacuole,0.8975000000000002,0.014832396974191328
+bud neck,mitochondrion,actin,0.8404999999999999,0.009407443861113394
+bud neck,mitochondrion,bud neck,0.8425,0.008215838362577506
+bud neck,mitochondrion,cell periphery,0.857,0.00913783344124853
+bud neck,mitochondrion,cytoplasm,0.857,0.021644860821913362
+bud neck,mitochondrion,endosome,0.8370000000000001,0.005787918451395101
+bud neck,mitochondrion,ER,0.852,0.012884098726725152
+bud neck,mitochondrion,Golgi,0.859,0.015378556499229694
+bud neck,mitochondrion,mitochondrion,0.8370000000000001,0.008860022573334691
+bud neck,mitochondrion,nucleus,0.8474999999999999,0.02162174831043966
+bud neck,mitochondrion,nuclear periphery,0.8394999999999999,0.009669539802906843
+bud neck,mitochondrion,nucleolus,0.844,0.009300537618869124
+bud neck,mitochondrion,spindle pole,0.8495000000000001,0.01756416807025029
+bud neck,mitochondrion,peroxisome,0.8480000000000001,0.010416333327999863
+bud neck,mitochondrion,vacuolar membrane,0.8470000000000001,0.00927361849549572
+bud neck,mitochondrion,vacuole,0.8564999999999999,0.022056745000112777
+bud neck,nucleus,actin,0.882,0.014525839046333934
+bud neck,nucleus,bud neck,0.876,0.012206555615733672
+bud neck,nucleus,cell periphery,0.8714999999999999,0.011575836902790237
+bud neck,nucleus,cytoplasm,0.8859999999999999,0.013656500283747661
+bud neck,nucleus,endosome,0.8925000000000001,0.011726039399558562
+bud neck,nucleus,ER,0.8875,0.011067971810589328
+bud neck,nucleus,Golgi,0.8690000000000001,0.013472193585307468
+bud neck,nucleus,mitochondrion,0.8850000000000001,0.015572411502397432
+bud neck,nucleus,nucleus,0.8780000000000001,0.01698528775146303
+bud neck,nucleus,nuclear periphery,0.8785000000000001,0.021307275752662492
+bud neck,nucleus,nucleolus,0.876,0.011789826122551557
+bud neck,nucleus,spindle pole,0.89,0.015411035007422445
+bud neck,nucleus,peroxisome,0.8885,0.015132745950421574
+bud neck,nucleus,vacuolar membrane,0.8745,0.009924716620639576
+bud neck,nucleus,vacuole,0.874,0.013285330255586404
+bud neck,nuclear periphery,actin,0.9275,0.001581138830084191
+bud neck,nuclear periphery,bud neck,0.9380000000000001,0.011979148550710911
+bud neck,nuclear periphery,cell periphery,0.943,0.009407443861113385
+bud neck,nuclear periphery,cytoplasm,0.9410000000000001,0.01124722187920198
+bud neck,nuclear periphery,endosome,0.9410000000000001,0.00514781507049347
+bud neck,nuclear periphery,ER,0.9385000000000001,0.005147815070493494
+bud neck,nuclear periphery,Golgi,0.9405000000000001,0.008573214099741107
+bud neck,nuclear periphery,mitochondrion,0.938,0.012980754985747162
+bud neck,nuclear periphery,nucleus,0.9305,0.011768602295939807
+bud neck,nuclear periphery,nuclear periphery,0.9335000000000001,0.011999999999999972
+bud neck,nuclear periphery,nucleolus,0.9414999999999999,0.01019803902718553
+bud neck,nuclear periphery,spindle pole,0.938,0.011335784048754637
+bud neck,nuclear periphery,peroxisome,0.9375,0.009082951062292465
+bud neck,nuclear periphery,vacuolar membrane,0.9395,0.0064031242374328196
+bud neck,nuclear periphery,vacuole,0.9414999999999999,0.009027735042633878
+bud neck,nucleolus,actin,0.942,0.005099019513592758
+bud neck,nucleolus,bud neck,0.9504999999999999,0.006204836822995444
+bud neck,nucleolus,cell periphery,0.96,0.00790569415042097
+bud neck,nucleolus,cytoplasm,0.9560000000000001,0.011467344941179737
+bud neck,nucleolus,endosome,0.9485000000000001,0.01067707825203132
+bud neck,nucleolus,ER,0.95,0.0077459666924148485
+bud neck,nucleolus,Golgi,0.9465,0.0058309518948453055
+bud neck,nucleolus,mitochondrion,0.952,0.008860022573334703
+bud neck,nucleolus,nucleus,0.945,0.004472135954999583
+bud neck,nucleolus,nuclear periphery,0.9495000000000001,0.00979795897113268
+bud neck,nucleolus,nucleolus,0.9530000000000001,0.008124038404635986
+bud neck,nucleolus,spindle pole,0.9460000000000001,0.007348469228349542
+bud neck,nucleolus,peroxisome,0.9490000000000001,0.005612486080160931
+bud neck,nucleolus,vacuolar membrane,0.9465,0.012409673645990868
+bud neck,nucleolus,vacuole,0.951,0.010074720839804933
+bud neck,spindle pole,actin,0.8710000000000001,0.011789826122551571
+bud neck,spindle pole,bud neck,0.8640000000000001,0.016852299546352693
+bud neck,spindle pole,cell periphery,0.8745,0.01646207763315433
+bud neck,spindle pole,cytoplasm,0.876,0.006244997998398363
+bud neck,spindle pole,endosome,0.8625,0.01048808848170153
+bud neck,spindle pole,ER,0.8554999999999999,0.01630950643030011
+bud neck,spindle pole,Golgi,0.8505,0.025169425897306443
+bud neck,spindle pole,mitochondrion,0.8574999999999999,0.025836021365527616
+bud neck,spindle pole,nucleus,0.8640000000000001,0.011022703842524302
+bud neck,spindle pole,nuclear periphery,0.8585,0.01806931099959267
+bud neck,spindle pole,nucleolus,0.8805,0.018261982367749664
+bud neck,spindle pole,spindle pole,0.875,0.012549900398011123
+bud neck,spindle pole,peroxisome,0.8574999999999999,0.012144957801491118
+bud neck,spindle pole,vacuolar membrane,0.8664999999999999,0.017720045146669333
+bud neck,spindle pole,vacuole,0.8710000000000001,0.012509996003196805
+bud neck,peroxisome,actin,0.8795,0.009669539802906829
+bud neck,peroxisome,bud neck,0.883,0.008124038404635934
+bud neck,peroxisome,cell periphery,0.8939999999999999,0.010440306508910566
+bud neck,peroxisome,cytoplasm,0.873,0.01218605760695392
+bud neck,peroxisome,endosome,0.884,0.01044030650891053
+bud neck,peroxisome,ER,0.8785000000000001,0.01806931099959264
+bud neck,peroxisome,Golgi,0.884,0.013656500283747656
+bud neck,peroxisome,mitochondrion,0.882,0.021644860821913373
+bud neck,peroxisome,nucleus,0.8815,0.014106735979665878
+bud neck,peroxisome,nuclear periphery,0.869,0.009300537618869115
+bud neck,peroxisome,nucleolus,0.8705,0.012186057606953935
+bud neck,peroxisome,spindle pole,0.8765000000000001,0.010198039027185577
+bud neck,peroxisome,peroxisome,0.867,0.012688577540449488
+bud neck,peroxisome,vacuolar membrane,0.8789999999999999,0.0060415229867972695
+bud neck,peroxisome,vacuole,0.8805,0.01996246477767713
+bud neck,vacuolar membrane,actin,0.921,0.00874642784226795
+bud neck,vacuolar membrane,bud neck,0.921,0.013656500283747647
+bud neck,vacuolar membrane,cell periphery,0.9285,0.005147815070493522
+bud neck,vacuolar membrane,cytoplasm,0.9235,0.00681909084849293
+bud neck,vacuolar membrane,endosome,0.9139999999999999,0.016628289148315867
+bud neck,vacuolar membrane,ER,0.9184999999999999,0.014882876066137255
+bud neck,vacuolar membrane,Golgi,0.917,0.012589678312014178
+bud neck,vacuolar membrane,mitochondrion,0.9174999999999999,0.010954451150103333
+bud neck,vacuolar membrane,nucleus,0.9075,0.01680773631397164
+bud neck,vacuolar membrane,nuclear periphery,0.909,0.01290348790056395
+bud neck,vacuolar membrane,nucleolus,0.9125,0.012942179105544783
+bud neck,vacuolar membrane,spindle pole,0.908,0.013453624047073733
+bud neck,vacuolar membrane,peroxisome,0.9339999999999999,0.012708265027138822
+bud neck,vacuolar membrane,vacuolar membrane,0.9035,0.021011901389450704
+bud neck,vacuolar membrane,vacuole,0.9045,0.007810249675906679
+bud neck,vacuole,actin,0.807,0.015684387141358096
+bud neck,vacuole,bud neck,0.8170000000000002,0.019899748742132416
+bud neck,vacuole,cell periphery,0.8130000000000001,0.022494443758404
+bud neck,vacuole,cytoplasm,0.8140000000000001,0.02905167809266792
+bud neck,vacuole,endosome,0.8065,0.012999999999999984
+bud neck,vacuole,ER,0.8089999999999999,0.007348469228349504
+bud neck,vacuole,Golgi,0.813,0.017349351572897475
+bud neck,vacuole,mitochondrion,0.8095000000000001,0.018124568960391853
+bud neck,vacuole,nucleus,0.798,0.017421251390184335
+bud neck,vacuole,nuclear periphery,0.8225,0.006324555320336755
+bud neck,vacuole,nucleolus,0.8049999999999999,0.012041594578792305
+bud neck,vacuole,spindle pole,0.8099999999999999,0.021330729007701547
+bud neck,vacuole,peroxisome,0.8099999999999999,0.02318404623873926
+bud neck,vacuole,vacuolar membrane,0.8025,0.014662878298615165
+bud neck,vacuole,vacuole,0.8135,0.019912307751739876
+cell periphery,cytoplasm,actin,0.921,0.00982344135219423
+cell periphery,cytoplasm,bud neck,0.9155000000000001,0.008124038404635967
+cell periphery,cytoplasm,cell periphery,0.9095000000000001,0.014696938456699102
+cell periphery,cytoplasm,cytoplasm,0.9015000000000001,0.013747727084867536
+cell periphery,cytoplasm,endosome,0.9175000000000001,0.012942179105544791
+cell periphery,cytoplasm,ER,0.913,0.007648529270389193
+cell periphery,cytoplasm,Golgi,0.925,0.009354143466934844
+cell periphery,cytoplasm,mitochondrion,0.915,0.019235384061671364
+cell periphery,cytoplasm,nucleus,0.924,0.01392838827718414
+cell periphery,cytoplasm,nuclear periphery,0.922,0.010295630140986991
+cell periphery,cytoplasm,nucleolus,0.9244999999999999,0.011768602295939817
+cell periphery,cytoplasm,spindle pole,0.9225,0.0035355339059327407
+cell periphery,cytoplasm,peroxisome,0.9135,0.012708265027138857
+cell periphery,cytoplasm,vacuolar membrane,0.899,0.009300537618869167
+cell periphery,cytoplasm,vacuole,0.9120000000000001,0.014352700094407337
+cell periphery,endosome,actin,0.9385,0.013656500283747652
+cell periphery,endosome,bud neck,0.933,0.012688577540449521
+cell periphery,endosome,cell periphery,0.9295,0.0073143694191638905
+cell periphery,endosome,cytoplasm,0.929,0.012308533625091166
+cell periphery,endosome,endosome,0.932,0.011335784048754606
+cell periphery,endosome,ER,0.9215000000000002,0.02071231517720797
+cell periphery,endosome,Golgi,0.9375,0.010723805294763583
+cell periphery,endosome,mitochondrion,0.937,0.0018708286933869307
+cell periphery,endosome,nucleus,0.9425000000000001,0.014230249470757685
+cell periphery,endosome,nuclear periphery,0.9295000000000002,0.009924716620639597
+cell periphery,endosome,nucleolus,0.933,0.010885770528538615
+cell periphery,endosome,spindle pole,0.9390000000000001,0.00463680924774783
+cell periphery,endosome,peroxisome,0.925,0.010606601717798191
+cell periphery,endosome,vacuolar membrane,0.924,0.013
+cell periphery,endosome,vacuole,0.9334999999999999,0.004062019202317971
+cell periphery,ER,actin,0.8654999999999999,0.01646207763315433
+cell periphery,ER,bud neck,0.8535,0.01090871211463574
+cell periphery,ER,cell periphery,0.861,0.009565563234854496
+cell periphery,ER,cytoplasm,0.8674999999999999,0.012942179105544757
+cell periphery,ER,endosome,0.8764999999999998,0.01189537725337031
+cell periphery,ER,ER,0.8459999999999999,0.015858751527153724
+cell periphery,ER,Golgi,0.8380000000000001,0.012389511693363877
+cell periphery,ER,mitochondrion,0.865,0.020676073128135332
+cell periphery,ER,nucleus,0.8695,0.009669539802906836
+cell periphery,ER,nuclear periphery,0.8515,0.010198039027185569
+cell periphery,ER,nucleolus,0.8635000000000002,0.0066332495807107875
+cell periphery,ER,spindle pole,0.8714999999999999,0.01102270384252429
+cell periphery,ER,peroxisome,0.8504999999999999,0.01615549442140352
+cell periphery,ER,vacuolar membrane,0.858,0.018261982367749684
+cell periphery,ER,vacuole,0.8560000000000001,0.01309580085370881
+cell periphery,Golgi,actin,0.9155,0.01278671185254445
+cell periphery,Golgi,bud neck,0.916,0.011022703842524309
+cell periphery,Golgi,cell periphery,0.9235,0.010074720839804919
+cell periphery,Golgi,cytoplasm,0.9115,0.01347219358530748
+cell periphery,Golgi,endosome,0.915,0.014577379737113264
+cell periphery,Golgi,ER,0.9105000000000001,0.011000000000000029
+cell periphery,Golgi,Golgi,0.9035,0.010198039027185557
+cell periphery,Golgi,mitochondrion,0.9205,0.005787918451395097
+cell periphery,Golgi,nucleus,0.915,0.010606601717798201
+cell periphery,Golgi,nuclear periphery,0.9135,0.012509996003196805
+cell periphery,Golgi,nucleolus,0.9175000000000001,0.014662878298615187
+cell periphery,Golgi,spindle pole,0.9125,0.008366600265340784
+cell periphery,Golgi,peroxisome,0.9119999999999999,0.020760539492026695
+cell periphery,Golgi,vacuolar membrane,0.9179999999999999,0.013266499161421617
+cell periphery,Golgi,vacuole,0.9125,0.0057008771254956755
+cell periphery,mitochondrion,actin,0.9359999999999999,0.01570031846810758
+cell periphery,mitochondrion,bud neck,0.9289999999999999,0.013285330255586416
+cell periphery,mitochondrion,cell periphery,0.9315000000000001,0.001999999999999996
+cell periphery,mitochondrion,cytoplasm,0.932,0.010999999999999992
+cell periphery,mitochondrion,endosome,0.9365,0.004898979485566319
+cell periphery,mitochondrion,ER,0.9399999999999998,0.007071067811865474
+cell periphery,mitochondrion,Golgi,0.937,0.006964194138592038
+cell periphery,mitochondrion,mitochondrion,0.9480000000000001,0.008124038404635957
+cell periphery,mitochondrion,nucleus,0.9205,0.01029563014098701
+cell periphery,mitochondrion,nuclear periphery,0.9305,0.010653637876331236
+cell periphery,mitochondrion,nucleolus,0.943,0.009669539802906829
+cell periphery,mitochondrion,spindle pole,0.925,0.0035355339059327407
+cell periphery,mitochondrion,peroxisome,0.9324999999999999,0.011510864433221349
+cell periphery,mitochondrion,vacuolar membrane,0.9235000000000001,0.01090871211463571
+cell periphery,mitochondrion,vacuole,0.9274999999999999,0.014404860290887916
+cell periphery,nucleus,actin,0.9574999999999999,0.006519202405202638
+cell periphery,nucleus,bud neck,0.9525,0.001581138830084191
+cell periphery,nucleus,cell periphery,0.951,0.008746427842267928
+cell periphery,nucleus,cytoplasm,0.953,0.011979148550710932
+cell periphery,nucleus,endosome,0.9595,0.004000000000000012
+cell periphery,nucleus,ER,0.96,0.011067971810589359
+cell periphery,nucleus,Golgi,0.9535,0.0066332495807107875
+cell periphery,nucleus,mitochondrion,0.96,0.009082951062292495
+cell periphery,nucleus,nucleus,0.969,0.014543039572249013
+cell periphery,nucleus,nuclear periphery,0.9594999999999999,0.005099019513592774
+cell periphery,nucleus,nucleolus,0.9630000000000001,0.008573214099741117
+cell periphery,nucleus,spindle pole,0.961,0.008455767262643868
+cell periphery,nucleus,peroxisome,0.959,0.007516648189186449
+cell periphery,nucleus,vacuolar membrane,0.953,0.0060000000000000105
+cell periphery,nucleus,vacuole,0.9545,0.007810249675906673
+cell periphery,nuclear periphery,actin,0.9709999999999999,0.007516648189186473
+cell periphery,nuclear periphery,bud neck,0.966,0.00815475321515005
+cell periphery,nuclear periphery,cell periphery,0.977,0.0033166247903554094
+cell periphery,nuclear periphery,cytoplasm,0.9594999999999999,0.008426149773176362
+cell periphery,nuclear periphery,endosome,0.9654999999999999,0.010885770528538615
+cell periphery,nuclear periphery,ER,0.9690000000000001,0.006633249580710804
+cell periphery,nuclear periphery,Golgi,0.9715,0.002549509756796386
+cell periphery,nuclear periphery,mitochondrion,0.9640000000000001,0.01146734494117975
+cell periphery,nuclear periphery,nucleus,0.967,0.00781024967590665
+cell periphery,nuclear periphery,nuclear periphery,0.9495000000000001,0.005999999999999992
+cell periphery,nuclear periphery,nucleolus,0.966,0.01319090595827293
+cell periphery,nuclear periphery,spindle pole,0.969,0.006819090848492921
+cell periphery,nuclear periphery,peroxisome,0.9555,0.0057879184513951
+cell periphery,nuclear periphery,vacuolar membrane,0.9535,0.009695359714832666
+cell periphery,nuclear periphery,vacuole,0.9644999999999999,0.004847679857416331
+cell periphery,nucleolus,actin,0.975,0.005700877125495695
+cell periphery,nucleolus,bud neck,0.961,0.009165151389911688
+cell periphery,nucleolus,cell periphery,0.969,0.007000000000000012
+cell periphery,nucleolus,cytoplasm,0.9650000000000001,0.007071067811865474
+cell periphery,nucleolus,endosome,0.9695,0.008717797887081373
+cell periphery,nucleolus,ER,0.9765,0.004062019202317978
+cell periphery,nucleolus,Golgi,0.975,0.00474341649025255
+cell periphery,nucleolus,mitochondrion,0.9724999999999999,0.006708203932499358
+cell periphery,nucleolus,nucleus,0.9774999999999998,0.005244044240850752
+cell periphery,nucleolus,nuclear periphery,0.9644999999999999,0.006204836822995441
+cell periphery,nucleolus,nucleolus,0.9715,0.004898979485566363
+cell periphery,nucleolus,spindle pole,0.9734999999999999,0.012409673645990877
+cell periphery,nucleolus,peroxisome,0.9675,0.006123724356957924
+cell periphery,nucleolus,vacuolar membrane,0.9640000000000001,0.006819090848492936
+cell periphery,nucleolus,vacuole,0.9675,0.006519202405202638
+cell periphery,spindle pole,actin,0.967,0.009669539802906857
+cell periphery,spindle pole,bud neck,0.9549999999999998,0.007905694150420941
+cell periphery,spindle pole,cell periphery,0.961,0.012708265027138857
+cell periphery,spindle pole,cytoplasm,0.96,0.005244044240850773
+cell periphery,spindle pole,endosome,0.9545,0.006964194138592056
+cell periphery,spindle pole,ER,0.9495000000000001,0.005338539126015648
+cell periphery,spindle pole,Golgi,0.953,0.013546217184144053
+cell periphery,spindle pole,mitochondrion,0.9640000000000001,0.006041522986797295
+cell periphery,spindle pole,nucleus,0.9650000000000001,0.00836660026534077
+cell periphery,spindle pole,nuclear periphery,0.9490000000000001,0.014017845768876176
+cell periphery,spindle pole,nucleolus,0.958,0.006403124237432868
+cell periphery,spindle pole,spindle pole,0.9650000000000001,0.00790569415042097
+cell periphery,spindle pole,peroxisome,0.961,0.010074720839804933
+cell periphery,spindle pole,vacuolar membrane,0.9525,0.005244044240850773
+cell periphery,spindle pole,vacuole,0.9540000000000001,0.006442049363362564
+cell periphery,peroxisome,actin,0.942,0.007968688725254603
+cell periphery,peroxisome,bud neck,0.9315,0.010198039027185538
+cell periphery,peroxisome,cell periphery,0.9315000000000001,0.009027735042633898
+cell periphery,peroxisome,cytoplasm,0.932,0.008276472678623437
+cell periphery,peroxisome,endosome,0.9369999999999999,0.010653637876331229
+cell periphery,peroxisome,ER,0.9414999999999999,0.0058309518948453055
+cell periphery,peroxisome,Golgi,0.9480000000000001,0.006204836822995424
+cell periphery,peroxisome,mitochondrion,0.9564999999999999,0.009027735042633907
+cell periphery,peroxisome,nucleus,0.9425000000000001,0.01549193338482964
+cell periphery,peroxisome,nuclear periphery,0.9419999999999998,0.0018708286933869784
+cell periphery,peroxisome,nucleolus,0.9380000000000001,0.011768602295939802
+cell periphery,peroxisome,spindle pole,0.946,0.011895377253370303
+cell periphery,peroxisome,peroxisome,0.9405000000000001,0.01298075498574716
+cell periphery,peroxisome,vacuolar membrane,0.9305,0.008860022573334651
+cell periphery,peroxisome,vacuole,0.9460000000000001,0.014370107863199892
+cell periphery,vacuolar membrane,actin,0.943,0.011768602295939803
+cell periphery,vacuolar membrane,bud neck,0.9199999999999999,0.00961769203083568
+cell periphery,vacuolar membrane,cell periphery,0.9385,0.007516648189186449
+cell periphery,vacuolar membrane,cytoplasm,0.922,0.011445523142259604
+cell periphery,vacuolar membrane,endosome,0.9254999999999999,0.015684387141358135
+cell periphery,vacuolar membrane,ER,0.9315000000000001,0.007516648189186453
+cell periphery,vacuolar membrane,Golgi,0.9259999999999999,0.012409673645990833
+cell periphery,vacuolar membrane,mitochondrion,0.9404999999999999,0.01478174549909448
+cell periphery,vacuolar membrane,nucleus,0.923,0.006204836822995444
+cell periphery,vacuolar membrane,nuclear periphery,0.9265000000000001,0.0066332495807107875
+cell periphery,vacuolar membrane,nucleolus,0.9305,0.013729530217745981
+cell periphery,vacuolar membrane,spindle pole,0.93,0.01890767040118902
+cell periphery,vacuolar membrane,peroxisome,0.9255000000000001,0.018533752992850636
+cell periphery,vacuolar membrane,vacuolar membrane,0.9179999999999999,0.00714142842854286
+cell periphery,vacuolar membrane,vacuole,0.924,0.00681909084849293
+cell periphery,vacuole,actin,0.8880000000000001,0.018398369492974093
+cell periphery,vacuole,bud neck,0.8800000000000001,0.011401754250991353
+cell periphery,vacuole,cell periphery,0.8815,0.026391286440793298
+cell periphery,vacuole,cytoplasm,0.8795,0.012980754985747167
+cell periphery,vacuole,endosome,0.881,0.00982344135219423
+cell periphery,vacuole,ER,0.8765000000000001,0.022836374493338463
+cell periphery,vacuole,Golgi,0.8755000000000001,0.014000000000000002
+cell periphery,vacuole,mitochondrion,0.8799999999999999,0.01474788120375261
+cell periphery,vacuole,nucleus,0.8825,0.012942179105544765
+cell periphery,vacuole,nuclear periphery,0.8755,0.014352700094407327
+cell periphery,vacuole,nucleolus,0.891,0.012103718436910235
+cell periphery,vacuole,spindle pole,0.8785000000000001,0.012409673645990868
+cell periphery,vacuole,peroxisome,0.8789999999999999,0.01827566688249704
+cell periphery,vacuole,vacuolar membrane,0.8870000000000001,0.016155494421403484
+cell periphery,vacuole,vacuole,0.8805,0.020149441679609862
+cytoplasm,endosome,actin,0.8774999999999998,0.017464249196572985
+cytoplasm,endosome,bud neck,0.8774999999999998,0.016431676725154956
+cytoplasm,endosome,cell periphery,0.865,0.016507574019219175
+cytoplasm,endosome,cytoplasm,0.8755000000000001,0.03018277654557315
+cytoplasm,endosome,endosome,0.867,0.01354621718414408
+cytoplasm,endosome,ER,0.875,0.007245688373094703
+cytoplasm,endosome,Golgi,0.8734999999999999,0.00751664818918644
+cytoplasm,endosome,mitochondrion,0.882,0.009924716620639608
+cytoplasm,endosome,nucleus,0.8625,0.031503968004046715
+cytoplasm,endosome,nuclear periphery,0.873,0.007810249675906631
+cytoplasm,endosome,nucleolus,0.8755,0.008124038404635917
+cytoplasm,endosome,spindle pole,0.868,0.006782329983125274
+cytoplasm,endosome,peroxisome,0.867,0.009924716620639595
+cytoplasm,endosome,vacuolar membrane,0.8555000000000001,0.017421251390184335
+cytoplasm,endosome,vacuole,0.8885,0.011575836902790246
+cytoplasm,ER,actin,0.8734999999999999,0.012409673645990818
+cytoplasm,ER,bud neck,0.8789999999999999,0.02009975124224175
+cytoplasm,ER,cell periphery,0.8714999999999999,0.01685229954635272
+cytoplasm,ER,cytoplasm,0.883,0.013729530217745973
+cytoplasm,ER,endosome,0.8734999999999999,0.0025495097567963688
+cytoplasm,ER,ER,0.8640000000000001,0.014628738838327807
+cytoplasm,ER,Golgi,0.8800000000000001,0.011726039399558576
+cytoplasm,ER,mitochondrion,0.868,0.018466185312619357
+cytoplasm,ER,nucleus,0.866,0.01067707825203132
+cytoplasm,ER,nuclear periphery,0.8825,0.006519202405202638
+cytoplasm,ER,nucleolus,0.8800000000000001,0.009617692030835664
+cytoplasm,ER,spindle pole,0.8585,0.017435595774162715
+cytoplasm,ER,peroxisome,0.858,0.023420076857260747
+cytoplasm,ER,vacuolar membrane,0.869,0.0068190908484929095
+cytoplasm,ER,vacuole,0.8640000000000001,0.006442049363362563
+cytoplasm,Golgi,actin,0.9109999999999999,0.011895377253370346
+cytoplasm,Golgi,bud neck,0.914,0.01124722187920202
+cytoplasm,Golgi,cell periphery,0.9199999999999999,0.009354143466934856
+cytoplasm,Golgi,cytoplasm,0.9109999999999999,0.013000000000000006
+cytoplasm,Golgi,endosome,0.8949999999999999,0.010000000000000026
+cytoplasm,Golgi,ER,0.9085000000000001,0.009027735042633893
+cytoplasm,Golgi,Golgi,0.9055,0.009273618495495727
+cytoplasm,Golgi,mitochondrion,0.909,0.010559356040971428
+cytoplasm,Golgi,nucleus,0.9020000000000001,0.011335784048754629
+cytoplasm,Golgi,nuclear periphery,0.908,0.010653637876331258
+cytoplasm,Golgi,nucleolus,0.9059999999999999,0.014370107863199913
+cytoplasm,Golgi,spindle pole,0.915,0.009874208829065765
+cytoplasm,Golgi,peroxisome,0.9065,0.015297058540778369
+cytoplasm,Golgi,vacuolar membrane,0.915,0.00961769203083568
+cytoplasm,Golgi,vacuole,0.9164999999999999,0.01537855649922968
+cytoplasm,mitochondrion,actin,0.8729999999999999,0.011113055385446415
+cytoplasm,mitochondrion,bud neck,0.8640000000000001,0.014882876066137212
+cytoplasm,mitochondrion,cell periphery,0.873,0.007810249675906631
+cytoplasm,mitochondrion,cytoplasm,0.8625,0.012942179105544785
+cytoplasm,mitochondrion,endosome,0.8670000000000002,0.02176005514698894
+cytoplasm,mitochondrion,ER,0.8619999999999999,0.014089002803605364
+cytoplasm,mitochondrion,Golgi,0.8655000000000002,0.011768602295939824
+cytoplasm,mitochondrion,mitochondrion,0.861,0.020772578077840994
+cytoplasm,mitochondrion,nucleus,0.8494999999999999,0.022770595073471418
+cytoplasm,mitochondrion,nuclear periphery,0.8634999999999999,0.01806931099959264
+cytoplasm,mitochondrion,nucleolus,0.885,0.02073644135332772
+cytoplasm,mitochondrion,spindle pole,0.8559999999999999,0.014713938969562147
+cytoplasm,mitochondrion,peroxisome,0.8575000000000002,0.022967368155711706
+cytoplasm,mitochondrion,vacuolar membrane,0.869,0.013656500283747647
+cytoplasm,mitochondrion,vacuole,0.8625,0.011510864433221328
+cytoplasm,nucleus,actin,0.8955,0.011768602295939824
+cytoplasm,nucleus,bud neck,0.8975,0.022693611435820445
+cytoplasm,nucleus,cell periphery,0.877,0.015684387141358096
+cytoplasm,nucleus,cytoplasm,0.8945000000000001,0.009000000000000011
+cytoplasm,nucleus,endosome,0.885,0.010368220676663844
+cytoplasm,nucleus,ER,0.8925000000000001,0.0077459666924148485
+cytoplasm,nucleus,Golgi,0.8809999999999999,0.013472193585307468
+cytoplasm,nucleus,mitochondrion,0.8885000000000002,0.01328533025558643
+cytoplasm,nucleus,nucleus,0.8935000000000001,0.022836374493338463
+cytoplasm,nucleus,nuclear periphery,0.889,0.009027735042633905
+cytoplasm,nucleus,nucleolus,0.8895,0.013360389215887359
+cytoplasm,nucleus,spindle pole,0.8915,0.011247221879201985
+cytoplasm,nucleus,peroxisome,0.8879999999999999,0.008573214099741107
+cytoplasm,nucleus,vacuolar membrane,0.8825,0.010246950765959608
+cytoplasm,nucleus,vacuole,0.8960000000000001,0.019403607911932266
+cytoplasm,nuclear periphery,actin,0.9385,0.005385164807134468
+cytoplasm,nuclear periphery,bud neck,0.9480000000000001,0.010173494974687933
+cytoplasm,nuclear periphery,cell periphery,0.9465,0.011247221879201989
+cytoplasm,nuclear periphery,cytoplasm,0.951,0.0046368092477478634
+cytoplasm,nuclear periphery,endosome,0.937,0.0069641941385920406
+cytoplasm,nuclear periphery,ER,0.9524999999999999,0.0052440442408507515
+cytoplasm,nuclear periphery,Golgi,0.953,0.008717797887081371
+cytoplasm,nuclear periphery,mitochondrion,0.9335000000000001,0.016628289148315885
+cytoplasm,nuclear periphery,nucleus,0.9339999999999999,0.008888194417315589
+cytoplasm,nuclear periphery,nuclear periphery,0.9410000000000001,0.004062019202317945
+cytoplasm,nuclear periphery,nucleolus,0.9530000000000001,0.009539392014169444
+cytoplasm,nuclear periphery,spindle pole,0.9415000000000001,0.004898979485566333
+cytoplasm,nuclear periphery,peroxisome,0.944,0.009565563234854477
+cytoplasm,nuclear periphery,vacuolar membrane,0.953,0.011335784048754623
+cytoplasm,nuclear periphery,vacuole,0.9455,0.007141428428542827
+cytoplasm,nucleolus,actin,0.9395,0.005787918451395097
+cytoplasm,nucleolus,bud neck,0.9414999999999999,0.014370107863199907
+cytoplasm,nucleolus,cell periphery,0.9480000000000001,0.006964194138592031
+cytoplasm,nucleolus,cytoplasm,0.9475,0.008366600265340763
+cytoplasm,nucleolus,endosome,0.9385,0.010908712114635694
+cytoplasm,nucleolus,ER,0.9524999999999999,0.01140175425099137
+cytoplasm,nucleolus,Golgi,0.9410000000000001,0.007516648189186425
+cytoplasm,nucleolus,mitochondrion,0.9410000000000001,0.010319883720275118
+cytoplasm,nucleolus,nucleus,0.9355,0.008717797887081323
+cytoplasm,nucleolus,nuclear periphery,0.9395,0.01630950643030006
+cytoplasm,nucleolus,nucleolus,0.9434999999999999,0.008455767262643863
+cytoplasm,nucleolus,spindle pole,0.9425000000000001,0.006519202405202646
+cytoplasm,nucleolus,peroxisome,0.9425000000000001,0.010606601717798201
+cytoplasm,nucleolus,vacuolar membrane,0.9354999999999999,0.014525839046333925
+cytoplasm,nucleolus,vacuole,0.9359999999999999,0.01290348790056393
+cytoplasm,spindle pole,actin,0.8765000000000001,0.01914418971907664
+cytoplasm,spindle pole,bud neck,0.8805,0.016688319268278625
+cytoplasm,spindle pole,cell periphery,0.8705,0.01372953021774597
+cytoplasm,spindle pole,cytoplasm,0.8724999999999999,0.01781852968120545
+cytoplasm,spindle pole,endosome,0.86,0.012747548783981983
+cytoplasm,spindle pole,ER,0.8705,0.012186057606953916
+cytoplasm,spindle pole,Golgi,0.8815,0.012708265027138819
+cytoplasm,spindle pole,mitochondrion,0.874,0.014628738838327776
+cytoplasm,spindle pole,nucleus,0.8710000000000001,0.015132745950421526
+cytoplasm,spindle pole,nuclear periphery,0.8744999999999999,0.01607793519081353
+cytoplasm,spindle pole,nucleolus,0.8815,0.01260952021291849
+cytoplasm,spindle pole,spindle pole,0.8714999999999999,0.016926310879810762
+cytoplasm,spindle pole,peroxisome,0.8654999999999999,0.006403124237432858
+cytoplasm,spindle pole,vacuolar membrane,0.8780000000000001,0.013546217184144062
+cytoplasm,spindle pole,vacuole,0.8654999999999999,0.025219040425836958
+cytoplasm,peroxisome,actin,0.9025000000000001,0.013509256086106324
+cytoplasm,peroxisome,bud neck,0.9094999999999999,0.010295630140987017
+cytoplasm,peroxisome,cell periphery,0.9149999999999998,0.0077459666924148485
+cytoplasm,peroxisome,cytoplasm,0.9035,0.018479718612576336
+cytoplasm,peroxisome,endosome,0.9085000000000001,0.023801260470823798
+cytoplasm,peroxisome,ER,0.9110000000000001,0.006442049363362563
+cytoplasm,peroxisome,Golgi,0.9085000000000001,0.013379088160259667
+cytoplasm,peroxisome,mitochondrion,0.9015000000000001,0.009027735042633886
+cytoplasm,peroxisome,nucleus,0.8959999999999999,0.008888194417315589
+cytoplasm,peroxisome,nuclear periphery,0.9075000000000001,0.013038404810405297
+cytoplasm,peroxisome,nucleolus,0.8960000000000001,0.01328533025558642
+cytoplasm,peroxisome,spindle pole,0.9005000000000001,0.012389511693363886
+cytoplasm,peroxisome,peroxisome,0.9035,0.01200000000000001
+cytoplasm,peroxisome,vacuolar membrane,0.9055,0.010653637876331267
+cytoplasm,peroxisome,vacuole,0.9039999999999999,0.028398943642325824
+cytoplasm,vacuolar membrane,actin,0.9045,0.013910427743243553
+cytoplasm,vacuolar membrane,bud neck,0.8955,0.012980754985747177
+cytoplasm,vacuolar membrane,cell periphery,0.9055,0.016537835408541268
+cytoplasm,vacuolar membrane,cytoplasm,0.9040000000000001,0.00969535971483268
+cytoplasm,vacuolar membrane,endosome,0.8975,0.020554804791094453
+cytoplasm,vacuolar membrane,ER,0.913,0.01065363787633129
+cytoplasm,vacuolar membrane,Golgi,0.8934999999999998,0.01479864858694876
+cytoplasm,vacuolar membrane,mitochondrion,0.8975,0.01635542723379611
+cytoplasm,vacuolar membrane,nucleus,0.8885,0.012708265027138831
+cytoplasm,vacuolar membrane,nuclear periphery,0.8945000000000001,0.01017349497468789
+cytoplasm,vacuolar membrane,nucleolus,0.9085000000000001,0.014017845768876207
+cytoplasm,vacuolar membrane,spindle pole,0.892,0.019836834424877364
+cytoplasm,vacuolar membrane,peroxisome,0.9,0.00758287544405158
+cytoplasm,vacuolar membrane,vacuolar membrane,0.8880000000000001,0.010885770528538605
+cytoplasm,vacuolar membrane,vacuole,0.89,0.008366600265340762
+cytoplasm,vacuole,actin,0.8390000000000001,0.013838352503098082
+cytoplasm,vacuole,bud neck,0.825,0.011726039399558552
+cytoplasm,vacuole,cell periphery,0.82,0.008215838362577492
+cytoplasm,vacuole,cytoplasm,0.8344999999999999,0.024052026941611397
+cytoplasm,vacuole,endosome,0.8404999999999999,0.01004987562112088
+cytoplasm,vacuole,ER,0.8370000000000001,0.014000000000000012
+cytoplasm,vacuole,Golgi,0.8385,0.010559356040971465
+cytoplasm,vacuole,mitochondrion,0.8285,0.012308533625091161
+cytoplasm,vacuole,nucleus,0.8324999999999999,0.020493901531919215
+cytoplasm,vacuole,nuclear periphery,0.8314999999999999,0.023537204591879662
+cytoplasm,vacuole,nucleolus,0.843,0.01945507645834372
+cytoplasm,vacuole,spindle pole,0.8240000000000001,0.013747727084867512
+cytoplasm,vacuole,peroxisome,0.833,0.015443445211480477
+cytoplasm,vacuole,vacuolar membrane,0.8045,0.01144552314225957
+cytoplasm,vacuole,vacuole,0.8245000000000001,0.021587033144922923
+endosome,ER,actin,0.8885,0.012903487900563948
+endosome,ER,bud neck,0.8779999999999999,0.008999999999999972
+endosome,ER,cell periphery,0.8934999999999998,0.011575836902790229
+endosome,ER,cytoplasm,0.8889999999999999,0.013656500283747658
+endosome,ER,endosome,0.8835000000000001,0.01779044687465717
+endosome,ER,ER,0.869,0.013285330255586404
+endosome,ER,Golgi,0.885,0.006519202405202671
+endosome,ER,mitochondrion,0.882,0.013171939872319478
+endosome,ER,nucleus,0.8880000000000001,0.014781745499094471
+endosome,ER,nuclear periphery,0.8780000000000001,0.01983683442487738
+endosome,ER,nucleolus,0.884,0.014713938969562156
+endosome,ER,spindle pole,0.893,0.016155494421403495
+endosome,ER,peroxisome,0.859,0.018947295321496405
+endosome,ER,vacuolar membrane,0.8695,0.023526580712037178
+endosome,ER,vacuole,0.8865000000000001,0.011575836902790236
+endosome,Golgi,actin,0.805,0.018641351882307238
+endosome,Golgi,bud neck,0.8254999999999999,0.025268557536986563
+endosome,Golgi,cell periphery,0.8254999999999999,0.02057911562725669
+endosome,Golgi,cytoplasm,0.8154999999999999,0.013638181696985831
+endosome,Golgi,endosome,0.813,0.02456623699307648
+endosome,Golgi,ER,0.8029999999999999,0.02436185543015965
+endosome,Golgi,Golgi,0.8105,0.017492855684535916
+endosome,Golgi,mitochondrion,0.8154999999999999,0.02389560629069703
+endosome,Golgi,nucleus,0.808,0.01668831926827863
+endosome,Golgi,nuclear periphery,0.8130000000000001,0.016077935190813523
+endosome,Golgi,nucleolus,0.8225,0.008803408430829494
+endosome,Golgi,spindle pole,0.818,0.011979148550710916
+endosome,Golgi,peroxisome,0.8200000000000001,0.01332291259447421
+endosome,Golgi,vacuolar membrane,0.8089999999999999,0.013838352503098037
+endosome,Golgi,vacuole,0.8305,0.024617067250182343
+endosome,mitochondrion,actin,0.852,0.016309506430300096
+endosome,mitochondrion,bud neck,0.8480000000000001,0.0142653426176871
+endosome,mitochondrion,cell periphery,0.8539999999999999,0.013472193585307506
+endosome,mitochondrion,cytoplasm,0.8450000000000001,0.00591607978309964
+endosome,mitochondrion,endosome,0.8465,0.014106735979665877
+endosome,mitochondrion,ER,0.8515,0.007681145747868595
+endosome,mitochondrion,Golgi,0.8400000000000001,0.007416198487095655
+endosome,mitochondrion,mitochondrion,0.8564999999999999,0.015378556499229704
+endosome,mitochondrion,nucleus,0.8444999999999998,0.012489995996796819
+endosome,mitochondrion,nuclear periphery,0.842,0.02147091055358392
+endosome,mitochondrion,nucleolus,0.8474999999999999,0.008660254037844381
+endosome,mitochondrion,spindle pole,0.8634999999999999,0.006442049363362564
+endosome,mitochondrion,peroxisome,0.8465000000000001,0.01365650028374769
+endosome,mitochondrion,vacuolar membrane,0.8585,0.007842193570679078
+endosome,mitochondrion,vacuole,0.8634999999999999,0.008888194417315589
+endosome,nucleus,actin,0.8935000000000001,0.01270826502713882
+endosome,nucleus,bud neck,0.909,0.011789826122551604
+endosome,nucleus,cell periphery,0.9010000000000001,0.01521512405470295
+endosome,nucleus,cytoplasm,0.8959999999999999,0.012999999999999975
+endosome,nucleus,endosome,0.8965,0.011575836902790253
+endosome,nucleus,ER,0.908,0.007810249675906665
+endosome,nucleus,Golgi,0.9065,0.007516648189186449
+endosome,nucleus,mitochondrion,0.9055,0.009407443861113378
+endosome,nucleus,nucleus,0.9085000000000001,0.014798648586948774
+endosome,nucleus,nuclear periphery,0.8949999999999999,0.017248188310660353
+endosome,nucleus,nucleolus,0.8950000000000001,0.013038404810405309
+endosome,nucleus,spindle pole,0.8895,0.010173494974687912
+endosome,nucleus,peroxisome,0.8899999999999999,0.007416198487095655
+endosome,nucleus,vacuolar membrane,0.897,0.014265342617687117
+endosome,nucleus,vacuole,0.9035,0.006819090848492947
+endosome,nuclear periphery,actin,0.9205,0.007968688725254618
+endosome,nuclear periphery,bud neck,0.9205,0.007810249675906673
+endosome,nuclear periphery,cell periphery,0.9275,0.004472135954999571
+endosome,nuclear periphery,cytoplasm,0.915,0.010606601717798212
+endosome,nuclear periphery,endosome,0.9225,0.016733200530681527
+endosome,nuclear periphery,ER,0.9244999999999999,0.016911534525287777
+endosome,nuclear periphery,Golgi,0.9295,0.009669539802906855
+endosome,nuclear periphery,mitochondrion,0.9275,0.016431676725154998
+endosome,nuclear periphery,nucleus,0.9105000000000001,0.015033296378372921
+endosome,nuclear periphery,nuclear periphery,0.9269999999999999,0.008860022573334668
+endosome,nuclear periphery,nucleolus,0.9190000000000002,0.007842193570679045
+endosome,nuclear periphery,spindle pole,0.9189999999999999,0.014798648586948744
+endosome,nuclear periphery,peroxisome,0.9109999999999999,0.009165151389911686
+endosome,nuclear periphery,vacuolar membrane,0.933,0.014265342617687082
+endosome,nuclear periphery,vacuole,0.9245000000000001,0.014866068747318481
+endosome,nucleolus,actin,0.931,0.005385164807134518
+endosome,nucleolus,bud neck,0.9245000000000001,0.01208304597359457
+endosome,nucleolus,cell periphery,0.9344999999999999,0.007483314773547852
+endosome,nucleolus,cytoplasm,0.9335000000000001,0.008000000000000007
+endosome,nucleolus,endosome,0.9280000000000002,0.009273618495495696
+endosome,nucleolus,ER,0.9294999999999998,0.006204836822995406
+endosome,nucleolus,Golgi,0.9305,0.007968688725254604
+endosome,nucleolus,mitochondrion,0.9414999999999999,0.01055935604097144
+endosome,nucleolus,nucleus,0.9395,0.010770329614268971
+endosome,nucleolus,nuclear periphery,0.9254999999999999,0.020880613017821098
+endosome,nucleolus,nucleolus,0.925,0.005700877125495695
+endosome,nucleolus,spindle pole,0.9225,0.00741619848709567
+endosome,nucleolus,peroxisome,0.9199999999999999,0.01565247584249853
+endosome,nucleolus,vacuolar membrane,0.9295,0.006204836822995444
+endosome,nucleolus,vacuole,0.925,0.01048808848170153
+endosome,spindle pole,actin,0.8939999999999999,0.012308533625091175
+endosome,spindle pole,bud neck,0.906,0.01319090595827293
+endosome,spindle pole,cell periphery,0.893,0.010295630140987017
+endosome,spindle pole,cytoplasm,0.892,0.019962464777677134
+endosome,spindle pole,endosome,0.8825000000000001,0.017464249196572985
+endosome,spindle pole,ER,0.873,0.016309506430300102
+endosome,spindle pole,Golgi,0.8825,0.011401754250991375
+endosome,spindle pole,mitochondrion,0.889,0.009027735042633905
+endosome,spindle pole,nucleus,0.885,0.010954451150103317
+endosome,spindle pole,nuclear periphery,0.8845000000000001,0.013820274961085259
+endosome,spindle pole,nucleolus,0.876,0.014882876066137208
+endosome,spindle pole,spindle pole,0.868,0.019065675964937624
+endosome,spindle pole,peroxisome,0.8620000000000001,0.018466185312619364
+endosome,spindle pole,vacuolar membrane,0.8825,0.009746794344808962
+endosome,spindle pole,vacuole,0.8859999999999999,0.008455767262643877
+endosome,peroxisome,actin,0.8435,0.026201145013147818
+endosome,peroxisome,bud neck,0.8615,0.013656500283747638
+endosome,peroxisome,cell periphery,0.865,0.011937336386313334
+endosome,peroxisome,cytoplasm,0.8574999999999999,0.00758287544405158
+endosome,peroxisome,endosome,0.861,0.009823441352194245
+endosome,peroxisome,ER,0.875,0.010488088481701482
+endosome,peroxisome,Golgi,0.8699999999999999,0.020124611797498103
+endosome,peroxisome,mitochondrion,0.8535,0.018479718612576326
+endosome,peroxisome,nucleus,0.8564999999999999,0.017435595774162697
+endosome,peroxisome,nuclear periphery,0.8685,0.014543039572248983
+endosome,peroxisome,nucleolus,0.8600000000000001,0.017175564037317643
+endosome,peroxisome,spindle pole,0.8634999999999999,0.013564659966250517
+endosome,peroxisome,peroxisome,0.858,0.016613247725836146
+endosome,peroxisome,vacuolar membrane,0.8625,0.011401754250991375
+endosome,peroxisome,vacuole,0.8524999999999998,0.020186629238186354
+endosome,vacuolar membrane,actin,0.827,0.012083045973594551
+endosome,vacuolar membrane,bud neck,0.8255000000000001,0.017564168070250304
+endosome,vacuolar membrane,cell periphery,0.8105,0.021988633427296032
+endosome,vacuolar membrane,cytoplasm,0.8245000000000001,0.008276472678623411
+endosome,vacuolar membrane,endosome,0.8004999999999999,0.01784656829757473
+endosome,vacuolar membrane,ER,0.828,0.013076696830622021
+endosome,vacuolar membrane,Golgi,0.8210000000000001,0.0154596248337403
+endosome,vacuolar membrane,mitochondrion,0.8140000000000001,0.012609520212918487
+endosome,vacuolar membrane,nucleus,0.8145,0.03617319449537187
+endosome,vacuolar membrane,nuclear periphery,0.8125,0.019811612756158944
+endosome,vacuolar membrane,nucleolus,0.825,0.010839741694339404
+endosome,vacuolar membrane,spindle pole,0.8015000000000001,0.012308533625091161
+endosome,vacuolar membrane,peroxisome,0.8324999999999999,0.01643167672515497
+endosome,vacuolar membrane,vacuolar membrane,0.817,0.011979148550710925
+endosome,vacuolar membrane,vacuole,0.8105,0.016309506430300075
+endosome,vacuole,actin,0.8340000000000002,0.014456832294800959
+endosome,vacuole,bud neck,0.8314999999999999,0.014282856857085722
+endosome,vacuole,cell periphery,0.8105,0.010885770528538615
+endosome,vacuole,cytoplasm,0.8210000000000001,0.011357816691600554
+endosome,vacuole,endosome,0.8244999999999999,0.013266499161421611
+endosome,vacuole,ER,0.8099999999999999,0.013228756555322966
+endosome,vacuole,Golgi,0.8240000000000001,0.014106735979665878
+endosome,vacuole,mitochondrion,0.833,0.017492855684535902
+endosome,vacuole,nucleus,0.8325000000000001,0.019937402037376876
+endosome,vacuole,nuclear periphery,0.8099999999999999,0.010488088481701482
+endosome,vacuole,nucleolus,0.8225,0.01414213562373094
+endosome,vacuole,spindle pole,0.827,0.01958315602756613
+endosome,vacuole,peroxisome,0.8254999999999999,0.019836834424877384
+endosome,vacuole,vacuolar membrane,0.8334999999999999,0.006244997998398393
+endosome,vacuole,vacuole,0.8255000000000001,0.03030676492138348
+ER,Golgi,actin,0.892,0.021059439688652697
+ER,Golgi,bud neck,0.873,0.018601075237738258
+ER,Golgi,cell periphery,0.8859999999999999,0.0076811457478686215
+ER,Golgi,cytoplasm,0.89,0.009219544457292854
+ER,Golgi,endosome,0.8690000000000001,0.01736375535418534
+ER,Golgi,ER,0.8835,0.015858751527153693
+ER,Golgi,Golgi,0.8830000000000002,0.014866068747318474
+ER,Golgi,mitochondrion,0.8879999999999999,0.01099999999999997
+ER,Golgi,nucleus,0.875,0.008944271909999166
+ER,Golgi,nuclear periphery,0.8775000000000001,0.016046806535881204
+ER,Golgi,nucleolus,0.8899999999999999,0.017029386365926408
+ER,Golgi,spindle pole,0.8835000000000001,0.016477257053284084
+ER,Golgi,peroxisome,0.8695,0.019065675964937617
+ER,Golgi,vacuolar membrane,0.8800000000000001,0.0035355339059327407
+ER,Golgi,vacuole,0.883,0.01017349497468789
+ER,mitochondrion,actin,0.8915000000000001,0.012206555615733718
+ER,mitochondrion,bud neck,0.8755,0.011661903789690562
+ER,mitochondrion,cell periphery,0.898,0.017131841699011805
+ER,mitochondrion,cytoplasm,0.8885,0.01454303957224897
+ER,mitochondrion,endosome,0.8800000000000001,0.012942179105544786
+ER,mitochondrion,ER,0.8755000000000001,0.008717797887081312
+ER,mitochondrion,Golgi,0.8775000000000001,0.013509256086106284
+ER,mitochondrion,mitochondrion,0.8745,0.011874342087037916
+ER,mitochondrion,nucleus,0.861,0.026953663943887117
+ER,mitochondrion,nuclear periphery,0.8805,0.008573214099741096
+ER,mitochondrion,nucleolus,0.882,0.01568438714135811
+ER,mitochondrion,spindle pole,0.8675,0.018234582528810453
+ER,mitochondrion,peroxisome,0.8525,0.014747881203752658
+ER,mitochondrion,vacuolar membrane,0.8695,0.01646207763315434
+ER,mitochondrion,vacuole,0.8789999999999999,0.010198039027185541
+ER,nucleus,actin,0.9099999999999999,0.010368220676663886
+ER,nucleus,bud neck,0.9219999999999999,0.007968688725254634
+ER,nucleus,cell periphery,0.914,0.020285462775100804
+ER,nucleus,cytoplasm,0.9225000000000001,0.019557607215607932
+ER,nucleus,endosome,0.9125,0.007245688373094741
+ER,nucleus,ER,0.922,0.012489995996796786
+ER,nucleus,Golgi,0.9115,0.004358898943540687
+ER,nucleus,mitochondrion,0.9109999999999999,0.015297058540778367
+ER,nucleus,nucleus,0.9305,0.011979148550710932
+ER,nucleus,nuclear periphery,0.9045,0.011554220008291335
+ER,nucleus,nucleolus,0.9135,0.007348469228349527
+ER,nucleus,spindle pole,0.9055000000000002,0.01683745824048272
+ER,nucleus,peroxisome,0.9025000000000001,0.009354143466934856
+ER,nucleus,vacuolar membrane,0.914,0.009165151389911677
+ER,nucleus,vacuole,0.9189999999999999,0.014106735979665885
+ER,nuclear periphery,actin,0.917,0.0018708286933869665
+ER,nuclear periphery,bud neck,0.9179999999999999,0.01197914855071097
+ER,nuclear periphery,cell periphery,0.9345000000000001,0.017705931209625783
+ER,nuclear periphery,cytoplasm,0.9215,0.007000000000000029
+ER,nuclear periphery,endosome,0.9100000000000001,0.008366600265340762
+ER,nuclear periphery,ER,0.9265000000000001,0.015779733838059484
+ER,nuclear periphery,Golgi,0.932,0.010885770528538619
+ER,nuclear periphery,mitochondrion,0.9120000000000001,0.013171939872319485
+ER,nuclear periphery,nucleus,0.9315,0.011247221879201987
+ER,nuclear periphery,nuclear periphery,0.9155000000000001,0.009137833441248551
+ER,nuclear periphery,nucleolus,0.923,0.006964194138592075
+ER,nuclear periphery,spindle pole,0.9165000000000001,0.009027735042633898
+ER,nuclear periphery,peroxisome,0.9145,0.012389511693363879
+ER,nuclear periphery,vacuolar membrane,0.9175000000000001,0.013964240043768937
+ER,nuclear periphery,vacuole,0.9189999999999999,0.013095800853708817
+ER,nucleolus,actin,0.9535,0.0071763500472036635
+ER,nucleolus,bud neck,0.9490000000000001,0.01189537725337031
+ER,nucleolus,cell periphery,0.959,0.005612486080160891
+ER,nucleolus,cytoplasm,0.952,0.008276472678623453
+ER,nucleolus,endosome,0.9424999999999999,0.007582875444051542
+ER,nucleolus,ER,0.9559999999999998,0.009027735042633895
+ER,nucleolus,Golgi,0.9605,0.0048476798574163356
+ER,nucleolus,mitochondrion,0.9515,0.011022703842524292
+ER,nucleolus,nucleus,0.9570000000000001,0.006595452979136484
+ER,nucleolus,nuclear periphery,0.9480000000000001,0.010049875621120908
+ER,nucleolus,nucleolus,0.9475,0.007245688373094704
+ER,nucleolus,spindle pole,0.9395,0.011445523142259568
+ER,nucleolus,peroxisome,0.9450000000000001,0.00894427190999913
+ER,nucleolus,vacuolar membrane,0.9460000000000001,0.0046368092477478634
+ER,nucleolus,vacuole,0.9559999999999998,0.005830951894845289
+ER,spindle pole,actin,0.917,0.02021138293140772
+ER,spindle pole,bud neck,0.905,0.013322912594474252
+ER,spindle pole,cell periphery,0.909,0.011135528725660036
+ER,spindle pole,cytoplasm,0.9145,0.01307669683062205
+ER,spindle pole,endosome,0.908,0.016000000000000035
+ER,spindle pole,ER,0.8965,0.00930053761886916
+ER,spindle pole,Golgi,0.9125,0.00961769203083567
+ER,spindle pole,mitochondrion,0.9175000000000001,0.0038729833462074204
+ER,spindle pole,nucleus,0.916,0.007348469228349525
+ER,spindle pole,nuclear periphery,0.9110000000000001,0.01270826502713886
+ER,spindle pole,nucleolus,0.9199999999999999,0.013133925536563725
+ER,spindle pole,spindle pole,0.901,0.012103718436910228
+ER,spindle pole,peroxisome,0.9045,0.01798610574860498
+ER,spindle pole,vacuolar membrane,0.9129999999999999,0.0043011626335213325
+ER,spindle pole,vacuole,0.8955,0.011554220008291352
+ER,peroxisome,actin,0.901,0.014713938969562168
+ER,peroxisome,bud neck,0.8895,0.011113055385446435
+ER,peroxisome,cell periphery,0.8949999999999999,0.006324555320336764
+ER,peroxisome,cytoplasm,0.908,0.0033166247903554094
+ER,peroxisome,endosome,0.9055,0.009000000000000006
+ER,peroxisome,ER,0.8955,0.013820274961085264
+ER,peroxisome,Golgi,0.9014999999999999,0.007516648189186449
+ER,peroxisome,mitochondrion,0.9059999999999999,0.017720045146669347
+ER,peroxisome,nucleus,0.8955,0.014611639196202448
+ER,peroxisome,nuclear periphery,0.905,0.010723805294763607
+ER,peroxisome,nucleolus,0.8915,0.006819090848492936
+ER,peroxisome,spindle pole,0.9044999999999999,0.013638181696985868
+ER,peroxisome,peroxisome,0.8859999999999999,0.015215124054702923
+ER,peroxisome,vacuolar membrane,0.8945000000000001,0.00781024967590665
+ER,peroxisome,vacuole,0.9075,0.011401754250991375
+ER,vacuolar membrane,actin,0.884,0.013472193585307487
+ER,vacuolar membrane,bud neck,0.893,0.01258967831201417
+ER,vacuolar membrane,cell periphery,0.891,0.010793516572461474
+ER,vacuolar membrane,cytoplasm,0.875,0.006519202405202629
+ER,vacuolar membrane,endosome,0.8795,0.020639767440550297
+ER,vacuolar membrane,ER,0.8795,0.010049875621120887
+ER,vacuolar membrane,Golgi,0.8815000000000002,0.016170961628796207
+ER,vacuolar membrane,mitochondrion,0.8850000000000001,0.008514693182963209
+ER,vacuolar membrane,nucleus,0.8795,0.01408900280360536
+ER,vacuolar membrane,nuclear periphery,0.8695,0.019583156027566117
+ER,vacuolar membrane,nucleolus,0.8875,0.012144957801491153
+ER,vacuolar membrane,spindle pole,0.8705,0.022989127865145287
+ER,vacuolar membrane,peroxisome,0.8719999999999999,0.011113055385446425
+ER,vacuolar membrane,vacuolar membrane,0.874,0.016777961735562497
+ER,vacuolar membrane,vacuole,0.8695,0.02699073915253156
+ER,vacuole,actin,0.8125,0.012349089035228461
+ER,vacuole,bud neck,0.8285,0.010677078252031291
+ER,vacuole,cell periphery,0.8135,0.01019803902718558
+ER,vacuole,cytoplasm,0.8314999999999999,0.01124722187920201
+ER,vacuole,endosome,0.8110000000000002,0.01655294535724681
+ER,vacuole,ER,0.8089999999999999,0.008602325267042623
+ER,vacuole,Golgi,0.8295,0.00796868872525462
+ER,vacuole,mitochondrion,0.8229999999999998,0.003999999999999984
+ER,vacuole,nucleus,0.8300000000000001,0.008944271909999173
+ER,vacuole,nuclear periphery,0.8355,0.01298075498574716
+ER,vacuole,nucleolus,0.8150000000000001,0.021389249636207423
+ER,vacuole,spindle pole,0.8045,0.005099019513592805
+ER,vacuole,peroxisome,0.8195,0.016462077633154323
+ER,vacuole,vacuolar membrane,0.8165000000000001,0.022891046284519174
+ER,vacuole,vacuole,0.8305,0.0147817454990945
+Golgi,mitochondrion,actin,0.86,0.021389249636207436
+Golgi,mitochondrion,bud neck,0.8505,0.009539392014169468
+Golgi,mitochondrion,cell periphery,0.8495000000000001,0.018801595676963188
+Golgi,mitochondrion,cytoplasm,0.8520000000000001,0.014089002803605389
+Golgi,mitochondrion,endosome,0.842,0.024259018941416417
+Golgi,mitochondrion,ER,0.8525,0.013784048752090215
+Golgi,mitochondrion,Golgi,0.8399999999999999,0.018371173070873832
+Golgi,mitochondrion,mitochondrion,0.833,0.01607793519081353
+Golgi,mitochondrion,nucleus,0.841,0.02643860813280459
+Golgi,mitochondrion,nuclear periphery,0.85,0.011832159566199247
+Golgi,mitochondrion,nucleolus,0.8515,0.011247221879202001
+Golgi,mitochondrion,spindle pole,0.8515,0.013095800853708773
+Golgi,mitochondrion,peroxisome,0.8535,0.0051478150704935095
+Golgi,mitochondrion,vacuolar membrane,0.8375,0.01129158979063621
+Golgi,mitochondrion,vacuole,0.834,0.009695359714832676
+Golgi,nucleus,actin,0.9345000000000001,0.01298075498574716
+Golgi,nucleus,bud neck,0.9469999999999998,0.0073143694191638905
+Golgi,nucleus,cell periphery,0.942,0.004301162633521297
+Golgi,nucleus,cytoplasm,0.9375,0.003872983346207377
+Golgi,nucleus,endosome,0.9364999999999999,0.011467344941179706
+Golgi,nucleus,ER,0.933,0.009137833441248511
+Golgi,nucleus,Golgi,0.9355,0.00533853912601563
+Golgi,nucleus,mitochondrion,0.9339999999999999,0.01356465996625054
+Golgi,nucleus,nucleus,0.95,0.012942179105544783
+Golgi,nucleus,nuclear periphery,0.9205,0.015684387141358124
+Golgi,nucleus,nucleolus,0.9369999999999999,0.013820274961085259
+Golgi,nucleus,spindle pole,0.9369999999999999,0.010535653752852746
+Golgi,nucleus,peroxisome,0.9295,0.009669539802906857
+Golgi,nucleus,vacuolar membrane,0.9355,0.006964194138592058
+Golgi,nucleus,vacuole,0.9259999999999999,0.010793516572461434
+Golgi,nuclear periphery,actin,0.944,0.010198039027185558
+Golgi,nuclear periphery,bud neck,0.9460000000000001,0.009823441352194243
+Golgi,nuclear periphery,cell periphery,0.9525,0.015572411502397418
+Golgi,nuclear periphery,cytoplasm,0.9475,0.01172603939955856
+Golgi,nuclear periphery,endosome,0.9410000000000001,0.007176350047203655
+Golgi,nuclear periphery,ER,0.9515,0.01270826502713884
+Golgi,nuclear periphery,Golgi,0.943,0.004301162633521302
+Golgi,nuclear periphery,mitochondrion,0.9350000000000002,0.015083103128998349
+Golgi,nuclear periphery,nucleus,0.9460000000000001,0.0043588989435406926
+Golgi,nuclear periphery,nuclear periphery,0.9444999999999999,0.01029563014098697
+Golgi,nuclear periphery,nucleolus,0.9425000000000001,0.006892024376045093
+Golgi,nuclear periphery,spindle pole,0.9440000000000002,0.00860232526704262
+Golgi,nuclear periphery,peroxisome,0.9410000000000001,0.011575836902790217
+Golgi,nuclear periphery,vacuolar membrane,0.9405000000000001,0.013266499161421575
+Golgi,nuclear periphery,vacuole,0.9414999999999999,0.004358898943540667
+Golgi,nucleolus,actin,0.952,0.00696419413859206
+Golgi,nucleolus,bud neck,0.95,0.010368220676663844
+Golgi,nucleolus,cell periphery,0.9490000000000001,0.0025495097567964035
+Golgi,nucleolus,cytoplasm,0.9594999999999999,0.008860022573334675
+Golgi,nucleolus,endosome,0.9460000000000001,0.006244997998398415
+Golgi,nucleolus,ER,0.9515,0.0046368092477478634
+Golgi,nucleolus,Golgi,0.9469999999999998,0.013546217184144048
+Golgi,nucleolus,mitochondrion,0.9560000000000001,0.0037416573867739447
+Golgi,nucleolus,nucleus,0.9514999999999999,0.007176350047203657
+Golgi,nucleolus,nuclear periphery,0.9435,0.008306623862918056
+Golgi,nucleolus,nucleolus,0.9584999999999999,0.008455767262643885
+Golgi,nucleolus,spindle pole,0.9525,0.005477225575051656
+Golgi,nucleolus,peroxisome,0.9505000000000001,0.012186057606953937
+Golgi,nucleolus,vacuolar membrane,0.9490000000000001,0.013656500283747668
+Golgi,nucleolus,vacuole,0.9479999999999998,0.006204836822995424
+Golgi,spindle pole,actin,0.9120000000000001,0.012186057606953946
+Golgi,spindle pole,bud neck,0.9265000000000001,0.012509996003196784
+Golgi,spindle pole,cell periphery,0.9100000000000001,0.0158113883008419
+Golgi,spindle pole,cytoplasm,0.9179999999999999,0.014265342617687077
+Golgi,spindle pole,endosome,0.909,0.012903487900563932
+Golgi,spindle pole,ER,0.9094999999999999,0.019583156027566145
+Golgi,spindle pole,Golgi,0.909,0.014106735979665911
+Golgi,spindle pole,mitochondrion,0.9125,0.019039432764659782
+Golgi,spindle pole,nucleus,0.914,0.009695359714832668
+Golgi,spindle pole,nuclear periphery,0.9095000000000001,0.019583156027566145
+Golgi,spindle pole,nucleolus,0.9135,0.013928388277184124
+Golgi,spindle pole,spindle pole,0.9125,0.0199374020373769
+Golgi,spindle pole,peroxisome,0.908,0.017349351572897496
+Golgi,spindle pole,vacuolar membrane,0.9100000000000001,0.009082951062292472
+Golgi,spindle pole,vacuole,0.8995000000000001,0.006964194138592076
+Golgi,peroxisome,actin,0.8355,0.026711420778386157
+Golgi,peroxisome,bud neck,0.833,0.00857321409974113
+Golgi,peroxisome,cell periphery,0.841,0.017435595774162715
+Golgi,peroxisome,cytoplasm,0.844,0.00902773504263391
+Golgi,peroxisome,endosome,0.827,0.012589678312014158
+Golgi,peroxisome,ER,0.828,0.009407443861113361
+Golgi,peroxisome,Golgi,0.8445,0.015524174696260029
+Golgi,peroxisome,mitochondrion,0.8174999999999999,0.011180339887498924
+Golgi,peroxisome,nucleus,0.826,0.016015617378046944
+Golgi,peroxisome,nuclear periphery,0.8425,0.018506755523321768
+Golgi,peroxisome,nucleolus,0.826,0.011467344941179706
+Golgi,peroxisome,spindle pole,0.842,0.00578791845139512
+Golgi,peroxisome,peroxisome,0.8435,0.023216373532487785
+Golgi,peroxisome,vacuolar membrane,0.8394999999999999,0.018801595676963177
+Golgi,peroxisome,vacuole,0.8480000000000001,0.013729530217745986
+Golgi,vacuolar membrane,actin,0.8955,0.004301162633521302
+Golgi,vacuolar membrane,bud neck,0.8945000000000001,0.007968688725254608
+Golgi,vacuolar membrane,cell periphery,0.8795,0.015116216457830949
+Golgi,vacuolar membrane,cytoplasm,0.881,0.014017845768876174
+Golgi,vacuolar membrane,endosome,0.8745,0.010885770528538612
+Golgi,vacuolar membrane,ER,0.883,0.013171939872319478
+Golgi,vacuolar membrane,Golgi,0.8800000000000001,0.012845232578665102
+Golgi,vacuolar membrane,mitochondrion,0.8745,0.014781745499094471
+Golgi,vacuolar membrane,nucleus,0.8835,0.021130546609115418
+Golgi,vacuolar membrane,nuclear periphery,0.8705,0.024969981978367542
+Golgi,vacuolar membrane,nucleolus,0.8859999999999999,0.02591331703969989
+Golgi,vacuolar membrane,spindle pole,0.867,0.0179164728671689
+Golgi,vacuolar membrane,peroxisome,0.8845000000000001,0.024052026941611387
+Golgi,vacuolar membrane,vacuolar membrane,0.8695,0.012389511693363844
+Golgi,vacuolar membrane,vacuole,0.8744999999999999,0.0073143694191638775
+Golgi,vacuole,actin,0.8300000000000001,0.03197655391063896
+Golgi,vacuole,bud neck,0.8474999999999999,0.021851773383412165
+Golgi,vacuole,cell periphery,0.8455,0.00842614977317637
+Golgi,vacuole,cytoplasm,0.827,0.008573214099741131
+Golgi,vacuole,endosome,0.8320000000000001,0.018398369492974086
+Golgi,vacuole,ER,0.8239999999999998,0.012103718436910181
+Golgi,vacuole,Golgi,0.8324999999999999,0.015247950681976926
+Golgi,vacuole,mitochondrion,0.8335000000000001,0.015937377450509205
+Golgi,vacuole,nucleus,0.827,0.010999999999999987
+Golgi,vacuole,nuclear periphery,0.8285,0.014882876066137236
+Golgi,vacuole,nucleolus,0.834,0.021307275752662495
+Golgi,vacuole,spindle pole,0.8365,0.028574464124459104
+Golgi,vacuole,peroxisome,0.8405000000000001,0.020820662813657034
+Golgi,vacuole,vacuolar membrane,0.8394999999999999,0.012786711852544416
+Golgi,vacuole,vacuole,0.8379999999999999,0.012589678312014196
+mitochondrion,nucleus,actin,0.8719999999999999,0.01653783540854122
+mitochondrion,nucleus,bud neck,0.8875,0.009354143466934844
+mitochondrion,nucleus,cell periphery,0.8764999999999998,0.007176350047203635
+mitochondrion,nucleus,cytoplasm,0.8855000000000001,0.009273618495495703
+mitochondrion,nucleus,endosome,0.8799999999999999,0.0057008771254956755
+mitochondrion,nucleus,ER,0.8925000000000001,0.012041594578792305
+mitochondrion,nucleus,Golgi,0.8925000000000001,0.006123724356957942
+mitochondrion,nucleus,mitochondrion,0.8850000000000001,0.01303840481040527
+mitochondrion,nucleus,nucleus,0.9020000000000001,0.019710403344427037
+mitochondrion,nucleus,nuclear periphery,0.8640000000000001,0.017073371078963884
+mitochondrion,nucleus,nucleolus,0.8865000000000001,0.005830951894845323
+mitochondrion,nucleus,spindle pole,0.8844999999999998,0.007968688725254594
+mitochondrion,nucleus,peroxisome,0.884,0.014713938969562166
+mitochondrion,nucleus,vacuolar membrane,0.882,0.017564168070250297
+mitochondrion,nucleus,vacuole,0.8714999999999999,0.00815475321515002
+mitochondrion,nuclear periphery,actin,0.9125,0.009486832980505152
+mitochondrion,nuclear periphery,bud neck,0.9259999999999999,0.008746427842267925
+mitochondrion,nuclear periphery,cell periphery,0.9195,0.008276472678623453
+mitochondrion,nuclear periphery,cytoplasm,0.925,0.01284523257866514
+mitochondrion,nuclear periphery,endosome,0.924,0.011895377253370313
+mitochondrion,nuclear periphery,ER,0.9245000000000001,0.005099019513592804
+mitochondrion,nuclear periphery,Golgi,0.9259999999999999,0.0115758369027902
+mitochondrion,nuclear periphery,mitochondrion,0.9109999999999999,0.011575836902790217
+mitochondrion,nuclear periphery,nucleus,0.9235000000000001,0.013190905958272903
+mitochondrion,nuclear periphery,nuclear periphery,0.9085000000000001,0.008000000000000009
+mitochondrion,nuclear periphery,nucleolus,0.9265000000000001,0.010440306508910525
+mitochondrion,nuclear periphery,spindle pole,0.922,0.007810249675906673
+mitochondrion,nuclear periphery,peroxisome,0.921,0.01328533025558642
+mitochondrion,nuclear periphery,vacuolar membrane,0.9184999999999999,0.01601561737804695
+mitochondrion,nuclear periphery,vacuole,0.9195,0.012186057606953966
+mitochondrion,nucleolus,actin,0.9175000000000001,0.011180339887498959
+mitochondrion,nucleolus,bud neck,0.9195,0.00731436941916392
+mitochondrion,nucleolus,cell periphery,0.9145000000000001,0.01133578404875462
+mitochondrion,nucleolus,cytoplasm,0.9270000000000002,0.009924716620639606
+mitochondrion,nucleolus,endosome,0.9115,0.011467344941179722
+mitochondrion,nucleolus,ER,0.9235,0.009300537618869143
+mitochondrion,nucleolus,Golgi,0.907,0.01317193987231951
+mitochondrion,nucleolus,mitochondrion,0.9219999999999999,0.014439529078193649
+mitochondrion,nucleolus,nucleus,0.9209999999999999,0.0076811457478686215
+mitochondrion,nucleolus,nuclear periphery,0.9049999999999999,0.009874208829065752
+mitochondrion,nucleolus,nucleolus,0.9245000000000001,0.012884098726725099
+mitochondrion,nucleolus,spindle pole,0.9165000000000001,0.01356465996625054
+mitochondrion,nucleolus,peroxisome,0.924,0.010440306508910556
+mitochondrion,nucleolus,vacuolar membrane,0.9189999999999999,0.007516648189186487
+mitochondrion,nucleolus,vacuole,0.9155,0.015033296378372881
+mitochondrion,spindle pole,actin,0.8714999999999999,0.012103718436910185
+mitochondrion,spindle pole,bud neck,0.8564999999999999,0.016093476939431094
+mitochondrion,spindle pole,cell periphery,0.8654999999999999,0.011554220008291332
+mitochondrion,spindle pole,cytoplasm,0.868,0.016537835408541222
+mitochondrion,spindle pole,endosome,0.8640000000000001,0.012609520212918474
+mitochondrion,spindle pole,ER,0.8654999999999999,0.010885770528538603
+mitochondrion,spindle pole,Golgi,0.867,0.01238951169336386
+mitochondrion,spindle pole,mitochondrion,0.8705,0.0043011626335213065
+mitochondrion,spindle pole,nucleus,0.86,0.006519202405202638
+mitochondrion,spindle pole,nuclear periphery,0.8545,0.01443952907819365
+mitochondrion,spindle pole,nucleolus,0.8780000000000001,0.012786711852544418
+mitochondrion,spindle pole,spindle pole,0.8640000000000001,0.012708265027138836
+mitochondrion,spindle pole,peroxisome,0.859,0.032426840734181936
+mitochondrion,spindle pole,vacuolar membrane,0.8695,0.00966953980290684
+mitochondrion,spindle pole,vacuole,0.8535,0.017790446874657206
+mitochondrion,peroxisome,actin,0.8380000000000001,0.012288205727444516
+mitochondrion,peroxisome,bud neck,0.8309999999999998,0.012708265027138831
+mitochondrion,peroxisome,cell periphery,0.8394999999999999,0.023043437243605806
+mitochondrion,peroxisome,cytoplasm,0.8365,0.006442049363362556
+mitochondrion,peroxisome,endosome,0.8535,0.012509996003196825
+mitochondrion,peroxisome,ER,0.8425,0.0063245553203367735
+mitochondrion,peroxisome,Golgi,0.8404999999999999,0.022660538387249355
+mitochondrion,peroxisome,mitochondrion,0.852,0.009539392014169479
+mitochondrion,peroxisome,nucleus,0.8344999999999999,0.015604486534327222
+mitochondrion,peroxisome,nuclear periphery,0.8415000000000001,0.01374772708486753
+mitochondrion,peroxisome,nucleolus,0.8404999999999999,0.01144552314225961
+mitochondrion,peroxisome,spindle pole,0.8295,0.026804850307360406
+mitochondrion,peroxisome,peroxisome,0.8540000000000001,0.015297058540778353
+mitochondrion,peroxisome,vacuolar membrane,0.8530000000000001,0.02198863342729601
+mitochondrion,peroxisome,vacuole,0.8554999999999999,0.007648529270389164
+mitochondrion,vacuolar membrane,actin,0.897,0.013546217184144086
+mitochondrion,vacuolar membrane,bud neck,0.8869999999999999,0.014949916387726036
+mitochondrion,vacuolar membrane,cell periphery,0.8720000000000001,0.008860022573334651
+mitochondrion,vacuolar membrane,cytoplasm,0.8995000000000001,0.006204836822995444
+mitochondrion,vacuolar membrane,endosome,0.8805,0.014177446878757828
+mitochondrion,vacuolar membrane,ER,0.898,0.02002498439450079
+mitochondrion,vacuolar membrane,Golgi,0.877,0.018261982367749677
+mitochondrion,vacuolar membrane,mitochondrion,0.8870000000000001,0.016537835408541226
+mitochondrion,vacuolar membrane,nucleus,0.8745,0.012688577540449521
+mitochondrion,vacuolar membrane,nuclear periphery,0.8714999999999999,0.018881207588499194
+mitochondrion,vacuolar membrane,nucleolus,0.893,0.013910427743243546
+mitochondrion,vacuolar membrane,spindle pole,0.8760000000000001,0.019595917942265405
+mitochondrion,vacuolar membrane,peroxisome,0.89,0.017392527130926073
+mitochondrion,vacuolar membrane,vacuolar membrane,0.8870000000000001,0.00796868872525462
+mitochondrion,vacuolar membrane,vacuole,0.8785000000000001,0.013838352503098028
+mitochondrion,vacuole,actin,0.8585,0.01090871211463571
+mitochondrion,vacuole,bud neck,0.8560000000000001,0.013564659966250506
+mitochondrion,vacuole,cell periphery,0.8600000000000001,0.017175564037317653
+mitochondrion,vacuole,cytoplasm,0.8640000000000001,0.010074720839804959
+mitochondrion,vacuole,endosome,0.8664999999999999,0.02437211521390789
+mitochondrion,vacuole,ER,0.865,0.010839741694339405
+mitochondrion,vacuole,Golgi,0.866,0.018069310999592653
+mitochondrion,vacuole,mitochondrion,0.8615,0.012206555615733711
+mitochondrion,vacuole,nucleus,0.8545,0.005338539126015669
+mitochondrion,vacuole,nuclear periphery,0.849,0.02822233158334014
+mitochondrion,vacuole,nucleolus,0.8565000000000002,0.01189537725337034
+mitochondrion,vacuole,spindle pole,0.8404999999999999,0.017131841699011836
+mitochondrion,vacuole,peroxisome,0.841,0.01655294535724685
+mitochondrion,vacuole,vacuolar membrane,0.8640000000000001,0.01593737745050924
+mitochondrion,vacuole,vacuole,0.8714999999999999,0.011467344941179685
+nucleus,nuclear periphery,actin,0.9115,0.008154753215150029
+nucleus,nuclear periphery,bud neck,0.922,0.011661903789690595
+nucleus,nuclear periphery,cell periphery,0.921,0.005385164807134518
+nucleus,nuclear periphery,cytoplasm,0.9105000000000001,0.013266499161421611
+nucleus,nuclear periphery,endosome,0.9065,0.01210371843691019
+nucleus,nuclear periphery,ER,0.9265000000000001,0.009300537618869124
+nucleus,nuclear periphery,Golgi,0.9175000000000001,0.008514693182963207
+nucleus,nuclear periphery,mitochondrion,0.9065,0.01677796173556253
+nucleus,nuclear periphery,nucleus,0.923,0.01029563014098701
+nucleus,nuclear periphery,nuclear periphery,0.9245000000000001,0.008124038404635964
+nucleus,nuclear periphery,nucleolus,0.9259999999999999,0.016170961628796214
+nucleus,nuclear periphery,spindle pole,0.9125,0.009617692030835682
+nucleus,nuclear periphery,peroxisome,0.9075,0.011832159566199247
+nucleus,nuclear periphery,vacuolar membrane,0.9195,0.019131126469708964
+nucleus,nuclear periphery,vacuole,0.9260000000000002,0.005830951894845304
+nucleus,nucleolus,actin,0.867,0.022271057451320072
+nucleus,nucleolus,bud neck,0.8760000000000001,0.011999999999999969
+nucleus,nucleolus,cell periphery,0.8729999999999999,0.010049875621120856
+nucleus,nucleolus,cytoplasm,0.8695,0.019
+nucleus,nucleolus,endosome,0.8525,0.012144957801491125
+nucleus,nucleolus,ER,0.873,0.005567764362829988
+nucleus,nucleolus,Golgi,0.8530000000000001,0.008999999999999994
+nucleus,nucleolus,mitochondrion,0.8815000000000002,0.013285330255586399
+nucleus,nucleolus,nucleus,0.8710000000000001,0.01124722187920198
+nucleus,nucleolus,nuclear periphery,0.8714999999999999,0.020530465167647796
+nucleus,nucleolus,nucleolus,0.8600000000000001,0.010606601717798243
+nucleus,nucleolus,spindle pole,0.8509999999999998,0.019013153341831558
+nucleus,nucleolus,peroxisome,0.8615,0.019274335267396383
+nucleus,nucleolus,vacuolar membrane,0.8744999999999999,0.02298912786514528
+nucleus,nucleolus,vacuole,0.8610000000000001,0.009823441352194267
+nucleus,spindle pole,actin,0.892,0.01683745824048277
+nucleus,spindle pole,bud neck,0.8734999999999999,0.011135528725660045
+nucleus,spindle pole,cell periphery,0.8785000000000001,0.0053851648071345
+nucleus,spindle pole,cytoplasm,0.8875,0.019621416870348605
+nucleus,spindle pole,endosome,0.875,0.006708203932499333
+nucleus,spindle pole,ER,0.8935000000000001,0.01055935604097144
+nucleus,spindle pole,Golgi,0.8960000000000001,0.013472193585307506
+nucleus,spindle pole,mitochondrion,0.8859999999999999,0.014370107863199907
+nucleus,spindle pole,nucleus,0.9025000000000001,0.009486832980505146
+nucleus,spindle pole,nuclear periphery,0.8605,0.019646882704388482
+nucleus,spindle pole,nucleolus,0.889,0.010793516572461446
+nucleus,spindle pole,spindle pole,0.8885,0.010677078252031333
+nucleus,spindle pole,peroxisome,0.8745,0.01683745824048273
+nucleus,spindle pole,vacuolar membrane,0.8815000000000002,0.013838352503098028
+nucleus,spindle pole,vacuole,0.8795,0.011335784048754622
+nucleus,peroxisome,actin,0.9079999999999998,0.014696938456699095
+nucleus,peroxisome,bud neck,0.93,0.007582875444051521
+nucleus,peroxisome,cell periphery,0.9315,0.010559356040971423
+nucleus,peroxisome,cytoplasm,0.9215,0.015620499351813316
+nucleus,peroxisome,endosome,0.9125,0.010839741694339424
+nucleus,peroxisome,ER,0.9269999999999999,0.015763882770434424
+nucleus,peroxisome,Golgi,0.9259999999999999,0.015620499351813316
+nucleus,peroxisome,mitochondrion,0.915,0.004183300132670395
+nucleus,peroxisome,nucleus,0.9279999999999999,0.009669539802906857
+nucleus,peroxisome,nuclear periphery,0.9109999999999999,0.006041522986797277
+nucleus,peroxisome,nucleolus,0.9155000000000001,0.008276472678623411
+nucleus,peroxisome,spindle pole,0.9189999999999999,0.013095800853708773
+nucleus,peroxisome,peroxisome,0.9099999999999999,0.00961769203083568
+nucleus,peroxisome,vacuolar membrane,0.9100000000000001,0.009354143466934856
+nucleus,peroxisome,vacuole,0.9100000000000001,0.007071067811865481
+nucleus,vacuolar membrane,actin,0.9260000000000002,0.008455767262643884
+nucleus,vacuolar membrane,bud neck,0.925,0.008944271909999173
+nucleus,vacuolar membrane,cell periphery,0.9289999999999999,0.0076811457478686085
+nucleus,vacuolar membrane,cytoplasm,0.931,0.008455767262643885
+nucleus,vacuolar membrane,endosome,0.9175000000000001,0.004472135954999571
+nucleus,vacuolar membrane,ER,0.933,0.006403124237432858
+nucleus,vacuolar membrane,Golgi,0.925,0.016733200530681516
+nucleus,vacuolar membrane,mitochondrion,0.9335000000000001,0.005830951894845258
+nucleus,vacuolar membrane,nucleus,0.9385,0.010440306508910525
+nucleus,vacuolar membrane,nuclear periphery,0.9215,0.01007472083980497
+nucleus,vacuolar membrane,nucleolus,0.9359999999999999,0.006244997998398393
+nucleus,vacuolar membrane,spindle pole,0.925,0.005244044240850752
+nucleus,vacuolar membrane,peroxisome,0.9385,0.018000000000000016
+nucleus,vacuolar membrane,vacuolar membrane,0.922,0.010653637876331277
+nucleus,vacuolar membrane,vacuole,0.917,0.008860022573334675
+nucleus,vacuole,actin,0.8905,0.00509901951359279
+nucleus,vacuole,bud neck,0.8975000000000002,0.012041594578792324
+nucleus,vacuole,cell periphery,0.885,0.006324555320336773
+nucleus,vacuole,cytoplasm,0.893,0.007968688725254608
+nucleus,vacuole,endosome,0.901,0.014195069566578384
+nucleus,vacuole,ER,0.8975,0.004183300132670369
+nucleus,vacuole,Golgi,0.901,0.015858751527153738
+nucleus,vacuole,mitochondrion,0.8915,0.009565563234854524
+nucleus,vacuole,nucleus,0.909,0.00681909084849293
+nucleus,vacuole,nuclear periphery,0.898,0.012489995996796796
+nucleus,vacuole,nucleolus,0.8995,0.01494991638772606
+nucleus,vacuole,spindle pole,0.909,0.006041522986797306
+nucleus,vacuole,peroxisome,0.8934999999999998,0.013928388277184131
+nucleus,vacuole,vacuolar membrane,0.8895,0.013546217184144043
+nucleus,vacuole,vacuole,0.9035,0.009565563234854519
+nuclear periphery,nucleolus,actin,0.9355,0.014525839046333925
+nuclear periphery,nucleolus,bud neck,0.933,0.015362291495737177
+nuclear periphery,nucleolus,cell periphery,0.923,0.0057879184513951396
+nuclear periphery,nucleolus,cytoplasm,0.9275,0.008366600265340762
+nuclear periphery,nucleolus,endosome,0.9245000000000001,0.009539392014169468
+nuclear periphery,nucleolus,ER,0.9265000000000001,0.007176350047203649
+nuclear periphery,nucleolus,Golgi,0.9255000000000001,0.015604486534327222
+nuclear periphery,nucleolus,mitochondrion,0.9279999999999999,0.012186057606953913
+nuclear periphery,nucleolus,nucleus,0.9305000000000001,0.01354621718414406
+nuclear periphery,nucleolus,nuclear periphery,0.921,0.004636809247747849
+nuclear periphery,nucleolus,nucleolus,0.9285,0.004062019202317978
+nuclear periphery,nucleolus,spindle pole,0.9094999999999999,0.013729530217745974
+nuclear periphery,nucleolus,peroxisome,0.9155000000000001,0.01544344521148049
+nuclear periphery,nucleolus,vacuolar membrane,0.9265000000000001,0.014282856857085684
+nuclear periphery,nucleolus,vacuole,0.9324999999999999,0.016278820596099672
+nuclear periphery,spindle pole,actin,0.9289999999999999,0.011022703842524304
+nuclear periphery,spindle pole,bud neck,0.9324999999999999,0.009082951062292453
+nuclear periphery,spindle pole,cell periphery,0.9225000000000001,0.015329709716755874
+nuclear periphery,spindle pole,cytoplasm,0.9295,0.011224972160321832
+nuclear periphery,spindle pole,endosome,0.9244999999999999,0.0024494897427831666
+nuclear periphery,spindle pole,ER,0.9225,0.005477225575051655
+nuclear periphery,spindle pole,Golgi,0.9145,0.009797958971132722
+nuclear periphery,spindle pole,mitochondrion,0.93,0.0057008771254956755
+nuclear periphery,spindle pole,nucleus,0.9295,0.01288409872672509
+nuclear periphery,spindle pole,nuclear periphery,0.916,0.006633249580710804
+nuclear periphery,spindle pole,nucleolus,0.925,0.019039432764659765
+nuclear periphery,spindle pole,spindle pole,0.9200000000000002,0.005700877125495695
+nuclear periphery,spindle pole,peroxisome,0.916,0.012509996003196824
+nuclear periphery,spindle pole,vacuolar membrane,0.9270000000000002,0.015033296378372887
+nuclear periphery,spindle pole,vacuole,0.9209999999999999,0.012308533625091163
+nuclear periphery,peroxisome,actin,0.9400000000000001,0.010839741694339374
+nuclear periphery,peroxisome,bud neck,0.945,0.006519202405202638
+nuclear periphery,peroxisome,cell periphery,0.9495000000000001,0.005567764362830022
+nuclear periphery,peroxisome,cytoplasm,0.943,0.005099019513592796
+nuclear periphery,peroxisome,endosome,0.9404999999999999,0.008717797887081338
+nuclear periphery,peroxisome,ER,0.9475,0.010954451150103333
+nuclear periphery,peroxisome,Golgi,0.946,0.01290348790056393
+nuclear periphery,peroxisome,mitochondrion,0.933,0.005999999999999999
+nuclear periphery,peroxisome,nucleus,0.9445,0.007314369419163902
+nuclear periphery,peroxisome,nuclear periphery,0.9390000000000001,0.006999999999999997
+nuclear periphery,peroxisome,nucleolus,0.9344999999999999,0.012489995996796807
+nuclear periphery,peroxisome,spindle pole,0.938,0.006204836822995402
+nuclear periphery,peroxisome,peroxisome,0.9380000000000001,0.017131841699011816
+nuclear periphery,peroxisome,vacuolar membrane,0.9414999999999999,0.009949874371066168
+nuclear periphery,peroxisome,vacuole,0.9324999999999999,0.007582875444051542
+nuclear periphery,vacuolar membrane,actin,0.9099999999999999,0.014230249470757728
+nuclear periphery,vacuolar membrane,bud neck,0.9155,0.0036742346141747676
+nuclear periphery,vacuolar membrane,cell periphery,0.9185000000000001,0.010793516572461435
+nuclear periphery,vacuolar membrane,cytoplasm,0.9094999999999999,0.01691153452528778
+nuclear periphery,vacuolar membrane,endosome,0.9055,0.009539392014169451
+nuclear periphery,vacuolar membrane,ER,0.9199999999999999,0.0117260393995586
+nuclear periphery,vacuolar membrane,Golgi,0.9155000000000001,0.009137833441248527
+nuclear periphery,vacuolar membrane,mitochondrion,0.905,0.0077459666924148485
+nuclear periphery,vacuolar membrane,nucleus,0.9184999999999999,0.01124722187920202
+nuclear periphery,vacuolar membrane,nuclear periphery,0.9025000000000001,0.010839741694339416
+nuclear periphery,vacuolar membrane,nucleolus,0.9195,0.016232683080747934
+nuclear periphery,vacuolar membrane,spindle pole,0.9195,0.013453624047073707
+nuclear periphery,vacuolar membrane,peroxisome,0.9135000000000002,0.017435595774162704
+nuclear periphery,vacuolar membrane,vacuolar membrane,0.9095000000000001,0.012786711852544416
+nuclear periphery,vacuolar membrane,vacuole,0.9025000000000001,0.014916433890176304
+nuclear periphery,vacuole,actin,0.9200000000000002,0.01140175425099139
+nuclear periphery,vacuole,bud neck,0.9355,0.010885770528538615
+nuclear periphery,vacuole,cell periphery,0.9390000000000001,0.0073484692283495275
+nuclear periphery,vacuole,cytoplasm,0.9349999999999999,0.008660254037844381
+nuclear periphery,vacuole,endosome,0.9239999999999998,0.0046368092477478634
+nuclear periphery,vacuole,ER,0.9425000000000001,0.006123724356957942
+nuclear periphery,vacuole,Golgi,0.9345000000000001,0.008426149773176326
+nuclear periphery,vacuole,mitochondrion,0.9255000000000001,0.008426149773176362
+nuclear periphery,vacuole,nucleus,0.9375,0.008215838362577471
+nuclear periphery,vacuole,nuclear periphery,0.9269999999999999,0.007968688725254584
+nuclear periphery,vacuole,nucleolus,0.9375,0.01710263137648706
+nuclear periphery,vacuole,spindle pole,0.9344999999999999,0.010295630140986972
+nuclear periphery,vacuole,peroxisome,0.9205,0.01798610574860495
+nuclear periphery,vacuole,vacuolar membrane,0.9395,0.011768602295939824
+nuclear periphery,vacuole,vacuole,0.9289999999999999,0.00845576726264385
+nucleolus,spindle pole,actin,0.891,0.013838352503098082
+nucleolus,spindle pole,bud neck,0.8879999999999999,0.006204836822995444
+nucleolus,spindle pole,cell periphery,0.898,0.012980754985747186
+nucleolus,spindle pole,cytoplasm,0.8855000000000001,0.008276472678623423
+nucleolus,spindle pole,endosome,0.882,0.014177446878757799
+nucleolus,spindle pole,ER,0.8815000000000002,0.014106735979665885
+nucleolus,spindle pole,Golgi,0.8859999999999999,0.016852299546352707
+nucleolus,spindle pole,mitochondrion,0.884,0.014543039572248985
+nucleolus,spindle pole,nucleus,0.8779999999999999,0.008717797887081312
+nucleolus,spindle pole,nuclear periphery,0.8779999999999999,0.010295630140986972
+nucleolus,spindle pole,nucleolus,0.884,0.02077257807784099
+nucleolus,spindle pole,spindle pole,0.8905,0.013360389215887373
+nucleolus,spindle pole,peroxisome,0.8795,0.016232683080747903
+nucleolus,spindle pole,vacuolar membrane,0.8835,0.015540270267920032
+nucleolus,spindle pole,vacuole,0.8805,0.00640312423743284
+nucleolus,peroxisome,actin,0.9390000000000001,0.007999999999999993
+nucleolus,peroxisome,bud neck,0.944,0.009823441352194219
+nucleolus,peroxisome,cell periphery,0.9455,0.013266499161421611
+nucleolus,peroxisome,cytoplasm,0.946,0.008455767262643864
+nucleolus,peroxisome,endosome,0.942,0.01826198236774968
+nucleolus,peroxisome,ER,0.9425000000000001,0.010606601717798201
+nucleolus,peroxisome,Golgi,0.9385,0.010319883720275137
+nucleolus,peroxisome,mitochondrion,0.9445,0.013820274961085224
+nucleolus,peroxisome,nucleus,0.9425000000000001,0.0061237243569579325
+nucleolus,peroxisome,nuclear periphery,0.9404999999999999,0.01661324772583613
+nucleolus,peroxisome,nucleolus,0.945,0.01837117307087381
+nucleolus,peroxisome,spindle pole,0.9400000000000001,0.014053469322555181
+nucleolus,peroxisome,peroxisome,0.9445,0.012083045973594582
+nucleolus,peroxisome,vacuolar membrane,0.9415000000000001,0.01102270384252429
+nucleolus,peroxisome,vacuole,0.9375,0.009082951062292465
+nucleolus,vacuolar membrane,actin,0.9434999999999999,0.023162469643800945
+nucleolus,vacuolar membrane,bud neck,0.9359999999999999,0.012308533625091147
+nucleolus,vacuolar membrane,cell periphery,0.9345000000000001,0.005099019513592759
+nucleolus,vacuolar membrane,cytoplasm,0.9405000000000001,0.014352700094407303
+nucleolus,vacuolar membrane,endosome,0.9305,0.014611639196202448
+nucleolus,vacuolar membrane,ER,0.9410000000000001,0.009433981132056608
+nucleolus,vacuolar membrane,Golgi,0.9359999999999999,0.011247221879201968
+nucleolus,vacuolar membrane,mitochondrion,0.9455,0.0053385391260156526
+nucleolus,vacuolar membrane,nucleus,0.937,0.0024494897427831666
+nucleolus,vacuolar membrane,nuclear periphery,0.932,0.009797958971132725
+nucleolus,vacuolar membrane,nucleolus,0.942,0.008999999999999994
+nucleolus,vacuolar membrane,spindle pole,0.9360000000000002,0.010074720839804926
+nucleolus,vacuolar membrane,peroxisome,0.9395,0.013638181696985824
+nucleolus,vacuolar membrane,vacuolar membrane,0.93,0.017818529681205442
+nucleolus,vacuolar membrane,vacuole,0.924,0.009695359714832655
+nucleolus,vacuole,actin,0.9484999999999999,0.014966629547095735
+nucleolus,vacuole,bud neck,0.9475,0.008215838362577492
+nucleolus,vacuole,cell periphery,0.9489999999999998,0.007000000000000013
+nucleolus,vacuole,cytoplasm,0.9460000000000001,0.014106735979665885
+nucleolus,vacuole,endosome,0.9395,0.010885770528538605
+nucleolus,vacuole,ER,0.9469999999999998,0.011768602295939817
+nucleolus,vacuole,Golgi,0.9470000000000001,0.01461163919620245
+nucleolus,vacuole,mitochondrion,0.943,0.012083045973594567
+nucleolus,vacuole,nucleus,0.9484999999999999,0.007516648189186464
+nucleolus,vacuole,nuclear periphery,0.9410000000000001,0.011135528725660033
+nucleolus,vacuole,nucleolus,0.9369999999999999,0.013729530217745962
+nucleolus,vacuole,spindle pole,0.937,0.012186057606953925
+nucleolus,vacuole,peroxisome,0.9415000000000001,0.006633249580710769
+nucleolus,vacuole,vacuolar membrane,0.9465,0.013379088160259634
+nucleolus,vacuole,vacuole,0.9495000000000001,0.010653637876331267
+spindle pole,peroxisome,actin,0.8815000000000002,0.01309580085370878
+spindle pole,peroxisome,bud neck,0.8815,0.015132745950421557
+spindle pole,peroxisome,cell periphery,0.883,0.012389511693363879
+spindle pole,peroxisome,cytoplasm,0.8895,0.011113055385446435
+spindle pole,peroxisome,endosome,0.8755,0.013546217184144053
+spindle pole,peroxisome,ER,0.873,0.016613247725836167
+spindle pole,peroxisome,Golgi,0.873,0.02070024154448445
+spindle pole,peroxisome,mitochondrion,0.881,0.007348469228349503
+spindle pole,peroxisome,nucleus,0.8855000000000001,0.011445523142259606
+spindle pole,peroxisome,nuclear periphery,0.8714999999999999,0.012609520212918498
+spindle pole,peroxisome,nucleolus,0.8765000000000001,0.018069310999592633
+spindle pole,peroxisome,spindle pole,0.8685,0.011247221879201966
+spindle pole,peroxisome,peroxisome,0.8785000000000001,0.013656500283747649
+spindle pole,peroxisome,vacuolar membrane,0.874,0.010440306508910535
+spindle pole,peroxisome,vacuole,0.8789999999999999,0.020591260281973976
+spindle pole,vacuolar membrane,actin,0.9260000000000002,0.019786358937409376
+spindle pole,vacuolar membrane,bud neck,0.9245000000000001,0.00966953980290688
+spindle pole,vacuolar membrane,cell periphery,0.9225,0.008803408430829494
+spindle pole,vacuolar membrane,cytoplasm,0.9245000000000001,0.012980754985747151
+spindle pole,vacuolar membrane,endosome,0.9135,0.010074720839804943
+spindle pole,vacuolar membrane,ER,0.9235,0.01647725705328409
+spindle pole,vacuolar membrane,Golgi,0.9135,0.011022703842524314
+spindle pole,vacuolar membrane,mitochondrion,0.9225,0.010368220676663873
+spindle pole,vacuolar membrane,nucleus,0.9175000000000001,0.013964240043768934
+spindle pole,vacuolar membrane,nuclear periphery,0.9199999999999999,0.01483239697419135
+spindle pole,vacuolar membrane,nucleolus,0.9235000000000001,0.006633249580710824
+spindle pole,vacuolar membrane,spindle pole,0.9189999999999999,0.01570031846810758
+spindle pole,vacuolar membrane,peroxisome,0.9365,0.011357816691600518
+spindle pole,vacuolar membrane,vacuolar membrane,0.9135,0.00916515138991169
+spindle pole,vacuolar membrane,vacuole,0.901,0.0164772570532841
+spindle pole,vacuole,actin,0.8875,0.009999999999999993
+spindle pole,vacuole,bud neck,0.89,0.011510864433221324
+spindle pole,vacuole,cell periphery,0.8790000000000001,0.018069310999592657
+spindle pole,vacuole,cytoplasm,0.8799999999999999,0.017392527130926077
+spindle pole,vacuole,endosome,0.8760000000000001,0.017291616465790565
+spindle pole,vacuole,ER,0.882,0.014949916387726058
+spindle pole,vacuole,Golgi,0.8845000000000001,0.010885770528538603
+spindle pole,vacuole,mitochondrion,0.8855000000000001,0.014696938456699043
+spindle pole,vacuole,nucleus,0.883,0.012786711852544416
+spindle pole,vacuole,nuclear periphery,0.891,0.014017845768876176
+spindle pole,vacuole,nucleolus,0.8969999999999999,0.011224972160321828
+spindle pole,vacuole,spindle pole,0.8995,0.015116216457831014
+spindle pole,vacuole,peroxisome,0.8865000000000001,0.023270152556440188
+spindle pole,vacuole,vacuolar membrane,0.8949999999999999,0.02079663434308544
+spindle pole,vacuole,vacuole,0.8789999999999999,0.011022703842524281
+peroxisome,vacuolar membrane,actin,0.9095000000000001,0.015524174696260046
+peroxisome,vacuolar membrane,bud neck,0.924,0.00815475321515005
+peroxisome,vacuolar membrane,cell periphery,0.907,0.012980754985747169
+peroxisome,vacuolar membrane,cytoplasm,0.9255000000000001,0.004582575694955839
+peroxisome,vacuolar membrane,endosome,0.9189999999999999,0.0066332495807108075
+peroxisome,vacuolar membrane,ER,0.924,0.011467344941179727
+peroxisome,vacuolar membrane,Golgi,0.8975,0.017102631376487085
+peroxisome,vacuolar membrane,mitochondrion,0.9244999999999999,0.011554220008291344
+peroxisome,vacuolar membrane,nucleus,0.9215,0.00982344135219425
+peroxisome,vacuolar membrane,nuclear periphery,0.9145,0.007141428428542859
+peroxisome,vacuolar membrane,nucleolus,0.915,0.007905694150420941
+peroxisome,vacuolar membrane,spindle pole,0.9129999999999999,0.01133578404875465
+peroxisome,vacuolar membrane,peroxisome,0.9215,0.014628738838327777
+peroxisome,vacuolar membrane,vacuolar membrane,0.923,0.007483314773547884
+peroxisome,vacuolar membrane,vacuole,0.9115,0.008455767262643885
+peroxisome,vacuole,actin,0.8875,0.011510864433221317
+peroxisome,vacuole,bud neck,0.8955,0.00812403840463597
+peroxisome,vacuole,cell periphery,0.8960000000000001,0.014628738838327807
+peroxisome,vacuole,cytoplasm,0.8949999999999999,0.01151086443322137
+peroxisome,vacuole,endosome,0.9104999999999999,0.017131841699011816
+peroxisome,vacuole,ER,0.901,0.012903487900563953
+peroxisome,vacuole,Golgi,0.9084999999999999,0.006442049363362591
+peroxisome,vacuole,mitochondrion,0.8969999999999999,0.006595452979136447
+peroxisome,vacuole,nucleus,0.8959999999999999,0.006999999999999997
+peroxisome,vacuole,nuclear periphery,0.901,0.009949874371066224
+peroxisome,vacuole,nucleolus,0.8955,0.015362291495737217
+peroxisome,vacuole,spindle pole,0.8895,0.011224972160321822
+peroxisome,vacuole,peroxisome,0.9039999999999999,0.015215124054702956
+peroxisome,vacuole,vacuolar membrane,0.9024999999999999,0.00741619848709567
+peroxisome,vacuole,vacuole,0.9125,0.015411035007422481
+vacuolar membrane,vacuole,actin,0.8160000000000001,0.013747727084867512
+vacuolar membrane,vacuole,bud neck,0.8019999999999999,0.004582575694955839
+vacuolar membrane,vacuole,cell periphery,0.8154999999999999,0.009539392014169418
+vacuolar membrane,vacuole,cytoplasm,0.8154999999999999,0.01906567596493762
+vacuolar membrane,vacuole,endosome,0.8055,0.009539392014169428
+vacuolar membrane,vacuole,ER,0.818,0.015684387141358093
+vacuolar membrane,vacuole,Golgi,0.8125,0.017029386365926383
+vacuolar membrane,vacuole,mitochondrion,0.8095000000000001,0.0069641941385920406
+vacuolar membrane,vacuole,nucleus,0.8039999999999999,0.015700318468107557
+vacuolar membrane,vacuole,nuclear periphery,0.817,0.010416333327999799
+vacuolar membrane,vacuole,nucleolus,0.8009999999999999,0.025475478405714
+vacuolar membrane,vacuole,spindle pole,0.7909999999999999,0.014966629547095758
+vacuolar membrane,vacuole,peroxisome,0.8175000000000001,0.013693063937629145
+vacuolar membrane,vacuole,vacuolar membrane,0.8074999999999999,0.0137840487520902
+vacuolar membrane,vacuole,vacuole,0.813,0.02352658071203718
